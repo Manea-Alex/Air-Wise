@@ -1,0 +1,471 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.navbar-item {
+  position: relative;
+  /* aici adaugat */
+  padding: 0 10px;
+  font-size: 12px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 500;
+  height: 32px;
+  line-height: 2.5;
+  border-radius: 4px;
+  user-select: none;
+}
+.navbar-item:hover {
+  background-color: rgb(229 234 239);
+  cursor: pointer;
+}
+
+.dropdown {
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 5px);
+  transform: translateX(-50%);
+  min-width: 100%;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+  min-width: 190px;
+  z-index: 1;
+}
+
+.dropdown-return {
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 5px);
+  transform: translateX(-50%);
+  min-width: 100%;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+  min-width: 125px;
+  z-index: 1;
+}
+
+.dropdown-currency {
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 5px);
+  transform: translateX(-50%);
+  min-width: 100%;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+  min-width: 125px;
+  z-index: 1;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(242 242 242);
+}
+.navbar-item.dropdwon-item :nth-child(8):hover {
+  background-color: #009882;
+}
+
+.passengers-dropdown {
+  width: 285px;
+  z-index: 1;
+}
+
+.passenger-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.passenger-row span {
+  flex: 1;
+}
+
+.passenger-row input {
+  width: 40px;
+  text-align: center;
+  margin: 0 0.5rem;
+  border: none;
+  transform: translateX(15%);
+  font-size: 14px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 500;
+}
+.passenger-row input:focus {
+  outline: none;
+}
+
+.passenger-row button {
+  margin: 0 5px;
+  border-radius: 50%;
+}
+
+.stopovers-input {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.times-dropdown {
+  width: 200px;
+  padding: 0.4rem 1.5rem 0 1.5rem;
+  z-index: 1;
+}
+
+.dropdown-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.2rem 1rem;
+  z-index: 1;
+  font-size: 14px;
+}
+
+.dropdown-item-up-to {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.2rem 1rem;
+  z-index: 1;
+  font-size: 14px;
+}
+
+.dropdown-item label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.stopovers-input {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.stopovers-input.disabled button {
+  cursor: not-allowed;
+  /* background-color: #ccc; */
+  border-radius: 50%;
+}
+
+.input {
+  width: 115px;
+  text-align: center;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+.slider-container {
+  position: relative;
+}
+
+.labels-container {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.label {
+  position: absolute;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+/* Add these classes to your CSS file */
+.thin-slider .MuiSlider-root {
+  height: 2px;
+}
+
+.thin-slider .MuiSlider-track {
+  height: 2px;
+}
+
+.thin-slider .MuiSlider-rail {
+  height: 2px;
+}
+
+.dropdown-item-stopover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  z-index: 1;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+}
+
+.checkmark {
+  margin-right: 10px;
+}
+
+.stopovers-up-to {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-item-nonstop {
+  display: flex;
+  align-items: center;
+  /* padding: 0.5rem 1rem; */
+  margin-left: 8px;
+}
+
+.dropdown-item-any {
+  display: flex;
+  align-items: center;
+  /* padding: 0.5rem 1rem; */
+  margin-left: 8px;
+}
+
+#currency-select {
+  padding: 5px;
+}
+
+.navbar-item > span {
+  display: flex;
+  user-select: none;
+}
+
+.dropdown-actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  border-bottom: 1px solid rgb(239 242 245);
+}
+
+.dropdown-action.cancel {
+  color: rgb(79 83 90);
+  background-color: rgba(232 237 241);
+}
+
+.dropdown-action.done {
+  color: #ffff;
+  margin-left: 3px;
+}
+
+.dropdown-action {
+  padding: 0.4rem 1rem;
+  border: 1px;
+  border-radius: 4px;
+  background-color: #00a991;
+  color: #fff;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 550 !important;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  width: 50%;
+}
+
+.dropdown-action.cancel:hover {
+  background-color: rgb(220 227 233);
+}
+
+.dropdown-action.done:hover {
+  background-color: #009882;
+}
+
+.material-symbols-outlined.custom-expand {
+  font-size: 16px;
+  transform: translateY(28%);
+  margin-left: 4px;
+}
+
+.passenger-row {
+  display: flex;
+  align-items: center;
+}
+
+.passenger-info {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+.passenger-info span {
+  font-size: 14px;
+}
+
+.passenger-info > div {
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+}
+
+.passenger-info i {
+  margin-right: 8px;
+}
+
+.passenger-info span,
+.passenger-info p {
+  margin: 0;
+  line-height: 1;
+}
+.material-symbols-sharp.child {
+  font-size: 21px;
+  margin-left: 1.5px;
+}
+.passenger-info p {
+  color: rgb(79 94 113);
+}
+
+.children-p {
+  transform: translateX(-26%);
+  color: rgb(79 94 113);
+}
+
+.add,
+.substract {
+  background-color: #009882;
+  color: #ffff;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 1px 2px;
+}
+
+.material-symbols-sharp.add,
+.material-symbols-sharp.substract {
+  border-radius: 50%;
+}
+.add:hover,
+.substract:hover {
+  background-color: rgb(0 112 96);
+}
+
+.radio-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.radio-wrapper input[type="radio"] {
+  margin-right: 5px;
+  transform: scale(1.1);
+}
+
+.radio-wrapper-up-to {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.radio-wrapper-up-to input[type="radio"] {
+  margin-right: 5px;
+  transform: translateX(-470%) scale(1.1);
+  /* transform: scale(1.2); */
+}
+
+.radio-wrapper-up-to label {
+  margin-right: 5px;
+  transform: translateX(-170%);
+}
+
+.stopovers-up-to {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* .input:hover {
+  background-color: rgb(245 245 245);
+} */
+
+.input:focus {
+  outline: none;
+}
+
+.stopover-add {
+  background-color: #009882;
+  color: #ffff;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 1px 2px;
+  border-radius: 50%;
+  transform: translateX(-185%);
+}
+.stopover-substract {
+  background-color: #009882;
+  color: #ffff;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 1px 2px;
+  border-radius: 50%;
+  font-size: 12px;
+  transform: translateX(185%);
+}
+
+.stopover-add:hover,
+.stopover-substract:hover {
+  background-color: rgb(0 112 96);
+}
+
+.material-symbols-sharp.substract-stopover {
+  font-size: 14px;
+}
+
+.material-symbols-sharp.add-stopover {
+  font-size: 14px !important;
+}
+
+.stopovers-input input[type="number"]::-webkit-inner-spin-button,
+.stopovers-input input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.slider-container {
+  font-size: 14px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 500;
+}
+
+.currency-options-container {
+  display: grid;
+  grid-template-columns: repeat(
+    4,
+    1fr
+  ); /* Change this to 12 for 12 items per row */
+  grid-auto-rows: 1fr;
+  grid-gap: 8px;
+  max-height: 10%; /* Adjust the height based on your design */
+  min-width: 350px;
+}
+
+.currency-option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.1rem 0 0.1rem;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.currency-option:hover {
+  background-color: rgb(242 242 242);
+}
+
+.currency-option.selected {
+  background-color: rgb(0, 169, 145);
+  color: #ffff;
+}

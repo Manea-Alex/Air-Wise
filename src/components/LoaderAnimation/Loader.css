@@ -1,0 +1,23 @@
+.loader {
+  border: 10px solid #f3f3f3; /* this is the color of the "rest" of the loader */
+  border-top: 8px solid black; /* this is the color of the "active" part of the loader */
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  animation: spin 1.7s linear infinite;
+  pointer-events: none;
+}
+.material-icons.flight-icon {
+  rotate: 85deg;
+  font-size: 63px;
+  transform: translateX(-2px) translateY(-67px) rotate(45deg);
+  user-select: none;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

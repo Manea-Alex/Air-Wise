@@ -1,0 +1,5023 @@
+[
+  {
+    "name": "Bucharest Henri Coanda",
+    "country": "Romania",
+    "code": "OTP"
+  },
+  {
+    "name": "Cluj-Napoca",
+    "country": "Romania",
+    "code": "CLJ"
+  },
+  {
+    "name": "Iasi",
+    "country": "Romania",
+    "code": "IAS"
+  },
+  {
+    "name": "Timisoara Traian Vuia",
+    "country": "Romania",
+    "code": "TSR"
+  },
+  {
+    "name": "Suceava Stefan cel Mare",
+    "country": "Romania",
+    "code": "SCV"
+  },
+  {
+    "name": "Craiova",
+    "country": "Romania",
+    "code": "CRA"
+  },
+  {
+    "name": "Sibiu",
+    "country": "Romania",
+    "code": "SBZ"
+  },
+  {
+    "name": "Constanta",
+    "country": "Romania",
+    "code": "CND"
+  },
+  {
+    "name": "Targu-Mures Transilvania",
+    "country": "Romania",
+    "code": "TGM"
+  },
+  {
+    "name": "Bacau",
+    "country": "Romania",
+    "code": "BCM"
+  },
+  {
+    "name": "Oradea",
+    "country": "Romania",
+    "code": "OMR"
+  },
+  
+  {
+    "name": "Moscow Sheremetyevo",
+    "country": "Russia",
+    "code": "SVO"
+  },
+  {
+    "name": "St Petersburg Pulkovo",
+    "country": "Russia",
+    "code": "LED"
+  },
+  {
+    "name": "Moscow Domodedovo",
+    "country": "Russia",
+    "code": "DME"
+  },
+  {
+    "name": "Novosibirsk Tolmachevo",
+    "country": "Russia",
+    "code": "OVB"
+  },
+  {
+    "name": "Moscow Vnukovo",
+    "country": "Russia",
+    "code": "VKO"
+  },
+  {
+    "name": "Yekaterinburg Koltsovo",
+    "country": "Russia",
+    "code": "SVX"
+  },
+  {
+    "name": "Kazan International",
+    "country": "Russia",
+    "code": "KZN"
+  },
+  {
+    "name": "Sochi International",
+    "country": "Russia",
+    "code": "AER"
+  },
+  {
+    "name": "Ufa",
+    "country": "Russia",
+    "code": "UFA"
+  },
+  {
+    "name": "Khabarovsk Novy",
+    "country": "Russia",
+    "code": "KHV"
+  },
+  {
+    "name": "Grozny",
+    "country": "Russia",
+    "code": "GRV"
+  },
+  {
+    "name": "Zhukovsky",
+    "country": "Russia",
+    "code": "ZIA"
+  },
+  {
+    "name": "Mineralnye Vody",
+    "country": "Russia",
+    "code": "MRV"
+  },
+  {
+    "name": "Vladivostok Knevichi",
+    "country": "Russia",
+    "code": "VVO"
+  },
+  {
+    "name": "Irkutsk",
+    "country": "Russia",
+    "code": "IKT"
+  },
+  {
+    "name": "Novy Urengoy",
+    "country": "Russia",
+    "code": "NUX"
+  },
+  {
+    "name": "Yakutsk",
+    "country": "Russia",
+    "code": "YKS"
+  },
+  {
+    "name": "Surgut",
+    "country": "Russia",
+    "code": "SGC"
+  },
+  {
+    "name": "Nizhnevartovsk",
+    "country": "Russia",
+    "code": "NJC"
+  },
+  {
+    "name": "Omsk Tsentralny",
+    "country": "Russia",
+    "code": "OMS"
+  },
+  {
+    "name": "Chelyabinsk Balandino",
+    "country": "Russia",
+    "code": "CEK"
+  },
+  {
+    "name": "Frankfurt International",
+    "country": "Germany",
+    "code": "FRA"
+  },
+  {
+    "name": "Frankfurt Hahn",
+    "country": "Germany",
+    "code": "HHN"
+  },
+  {
+    "name": "Berlin Brandenburg",
+    "country": "Germany",
+    "code": "BER"
+  },
+  {
+    "name": "Munich Franz Joseph Strauss Int'l",
+    "country": "Germany",
+    "code": "MUC"
+  },
+  {
+    "name": "Hamburg Airport",
+    "country": "Germany",
+    "code": "HAM"
+  },
+  {
+    "name": "Hamburg LUEBECK",
+    "country": "Germany",
+    "code": "LBC"
+  },
+  {
+    "name": "Stuttgart",
+    "country": "Germany",
+    "code": "STR"
+  },
+  {
+    "name": "Cologne/Bonn",
+    "country": "Germany",
+    "code": "CGN"
+  },
+  {
+    "name": "Hannover",
+    "country": "Germany",
+    "code": "HAJ"
+  },
+  {
+    "name": "Nuremberg",
+    "country": "Germany",
+    "code": "NUE"
+  },
+  {
+    "name": "Leipzig/Halle",
+    "country": "Germany",
+    "code": "LEJ"
+  },
+  {
+    "name": "Bremen",
+    "country": "Germany",
+    "code": "BRE"
+  },
+  {
+    "name": "Dresden",
+    "country": "Germany",
+    "code": "DRS"
+  },
+  {
+    "name": "Dortmund",
+    "country": "Germany",
+    "code": "DTM"
+  },
+  {
+    "name": "Karlsruhe/Baden-Baden Baden Airpark",
+    "country": "Germany",
+    "code": "FKB"
+  },
+  {
+    "name": "Memmingen Allgaeu",
+    "country": "Germany",
+    "code": "FMM"
+  },
+  {
+    "name": "Friedrichshafen",
+    "country": "Germany",
+    "code": "FDH"
+  },
+  {
+    "name": "Saarbruecken Airport",
+    "country": "Germany",
+    "code": "SCN"
+  },
+  {
+    "name": "Paderborn/Lippstadt",
+    "country": "Germany",
+    "code": "PAD"
+  },
+  {
+    "name": "Westerland Sylt",
+    "country": "Germany",
+    "code": "GWT"
+  },
+  {
+    "name": "Rostock Laage",
+    "country": "Germany",
+    "code": "RLG"
+  },
+  {
+    "name": "Kassel Calden",
+    "country": "Germany",
+    "code": "KSF"
+  },
+  {
+    "name": "Heringsdorf",
+    "country": "Germany",
+    "code": "HDF"
+  },
+  {
+    "name": "Erfurt-Weimar",
+    "country": "Germany",
+    "code": "ERF"
+  },
+  {
+    "name": "Mannheim City Airport",
+    "country": "Germany",
+    "code": "MHG"
+  },
+  {
+    "name": "London Gatwick",
+    "country": "United Kingdom",
+    "code": "LGW"
+  },
+  {
+    "name": "London Heathrow",
+    "country": "United Kingdom",
+    "code": "LHR"
+  },
+  {
+    "name": "London Stansted",
+    "country": "United Kingdom",
+    "code": "STN"
+  },
+  {
+    "name": "London Luton",
+    "country": "United Kingdom",
+    "code": "LTN"
+  },
+  {
+    "name": "London City Airport",
+    "country": "United Kingdom",
+    "code": "LCY"
+  },
+  {
+    "name": "London Southend",
+    "country": "United Kingdom",
+    "code": "SEN"
+  },
+  {
+    "name": "Manchester",
+    "country": "United Kingdom",
+    "code": "MAN"
+  },
+  {
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "code": "EDI"
+  },
+  {
+    "name": "Birmingham",
+    "country": "United Kingdom",
+    "code": "BHX"
+  },
+  {
+    "name": "Bristol",
+    "country": "United Kingdom",
+    "code": "BRS"
+  },
+  
+  {
+    "name": "Glasgow International",
+    "country": "United Kingdom",
+    "code": "GLA"
+  },
+  {
+    "name": "Glasgow Prestwick",
+    "country": "United Kingdom",
+    "code": "PIK"
+  },
+  {
+    "name": "Belfast International",
+    "country": "United Kingdom",
+    "code": "BFS"
+  },
+  {
+    "name": "Belfast George Best City Apt",
+    "country": "United Kingdom",
+    "code": "BHD"
+  },
+  {
+    "name": "Newcastle International",
+    "country": "United Kingdom",
+    "code": "NCL"
+  },
+  {
+    "name": "Liverpool John Lennon",
+    "country": "United Kingdom",
+    "code": "LPL"
+  },
+  {
+    "name": "Nottingham East Midlands",
+    "country": "United Kingdom",
+    "code": "EMA"
+  },
+  {
+    "name": "Leeds/Bradford",
+    "country": "United Kingdom",
+    "code": "LBA"
+  },
+  {
+    "name": "Aberdeen Dyce",
+    "country": "United Kingdom",
+    "code": "ABZ"
+  },
+  {
+    "name": "Southampton Eastleigh Int'l",
+    "country": "United Kingdom",
+    "code": "SOU"
+  },
+  {
+    "name": "Jersey",
+    "country": "United Kingdom",
+    "code": "JER"
+  },
+  {
+    "name": "Cardiff",
+    "country": "United Kingdom",
+    "code": "CWL"
+  },
+  {
+    "name": "Exeter",
+    "country": "United Kingdom",
+    "code": "EXT"
+  },
+  {
+    "name": "Paris Charles de Gaulle",
+    "country": "France",
+    "code": "CDG"
+  },
+  {
+    "name": "Nice Cote d'Azur",
+    "country": "France",
+    "code": "NCE"
+  },
+  {
+    "name": "Lyon St-Exupery",
+    "country": "France",
+    "code": "LYS"
+  },
+  {
+    "name": "Lyon Grenoble-Isere",
+    "country": "France",
+    "code": "GNB"
+  },
+  {
+    "name": "Marseille Provence",
+    "country": "France",
+    "code": "MRS"
+  },
+  {
+    "name": "Toulouse Blagnac",
+    "country": "France",
+    "code": "TLS"
+  },
+  {
+    "name": "Paris Orly",
+    "country": "France",
+    "code": "ORY"
+  },
+  {
+    "name": "Mulhouse/Basel EuroAirport French  FR",
+    "country": "France",
+    "code": "MLH"
+  },
+  {
+    "name": "Bordeaux Merignac",
+    "country": "France",
+    "code": "BOD"
+  },
+  {
+    "name": "Nantes Atlantique",
+    "country": "France",
+    "code": "NTE"
+  },
+  {
+    "name": "Strasbourg Entzheim",
+    "country": "France",
+    "code": "SXB"
+  },
+  {
+    "name": "Lille Lesquin",
+    "country": "France",
+    "code": "LIL"
+  },
+  {
+    "name": "Ajaccio Napoleon Bonaparte",
+    "country": "France",
+    "code": "AJA"
+  },
+  {
+    "name": "Brest Bretagne",
+    "country": "France",
+    "code": "BES"
+  },
+  {
+    "name": "Bastia Poretta",
+    "country": "France",
+    "code": "BIA"
+  },
+  {
+    "name": "Montpellier Mediterranee",
+    "country": "France",
+    "code": "MPL"
+  },
+  {
+    "name": "Calvi Ste Catherine",
+    "country": "France",
+    "code": "CLY"
+  },
+  {
+    "name": "Figari Sud-Corse",
+    "country": "France",
+    "code": "FSC"
+  },
+  {
+    "name": "Rennes St Jacques",
+    "country": "France",
+    "code": "RNS"
+  },
+  {
+    "name": "Biarritz Pays Basque",
+    "country": "France",
+    "code": "BIQ"
+  },
+  {
+    "name": "Bergerac Roumaniere",
+    "country": "France",
+    "code": "EGC"
+  },
+  {
+    "name": "Limoges Bellegarde",
+    "country": "France",
+    "code": "LIG"
+  },
+  {
+    "name": "Clermont-Ferrand Auvergne",
+    "country": "France",
+    "code": "CFE"
+  },
+  {
+    "name": "La Rochelle Ile de Re",
+    "country": "France",
+    "code": "LRH"
+  },
+  {
+    "name": "Pau Pyrenees",
+    "country": "France",
+    "code": "PUF"
+  },
+  {
+    "name": "Brive-la-Gaillarde Vallee de la Dordogne",
+    "country": "France",
+    "code": "BVE"
+  },
+  {
+    "name": "Perpignan Rivesaltes",
+    "country": "France",
+    "code": "PGF"
+  },
+  {
+    "name": "Paris Beauvais-Tille",
+    "country": "France",
+    "code": "BVA"
+  },
+  {
+    "name": "Poitiers Biard",
+    "country": "France",
+    "code": "PIS"
+  },
+  {
+    "name": "Rome Fiumicino",
+    "country": "Italy",
+    "code": "FCO"
+  },
+  {
+    "name": "Milan Malpensa",
+    "country": "Italy",
+    "code": "MXP"
+  },
+  {
+    "name": "Venice Marco Polo",
+    "country": "Italy",
+    "code": "VCE"
+  },
+  {
+    "name": "Venice Treviso/Sant'Angelo",
+    "country": "Italy",
+    "code": "TSF"
+  },
+  {
+    "name": "Bologna Guglielmo Marconi",
+    "country": "Italy",
+    "code": "BLQ"
+  },
+  {
+    "name": "Naples Capodichino",
+    "country": "Italy",
+    "code": "NAP"
+  },
+  {
+    "name": "Catania Fontanarossa",
+    "country": "Italy",
+    "code": "CTA"
+  },
+  {
+    "name": "Milan Bergamo/Orio al Serio",
+    "country": "Italy",
+    "code": "BGY"
+  },
+  {
+    "name": "Milan Parma",
+    "country": "Italy",
+    "code": "PMF"
+  },
+  {
+    "name": "Turin Caselle",
+    "country": "Italy",
+    "code": "TRN"
+  },
+  {
+    "name": "Verona Villafranca",
+    "country": "Italy",
+    "code": "VRN"
+  },
+  {
+    "name": "Pisa Galileo Galilei",
+    "country": "Italy",
+    "code": "PSA"
+  },
+  {
+    "name": "Bari Palese",
+    "country": "Italy",
+    "code": "BRI"
+  },
+  {
+    "name": "Genoa Cristoforo Colombo",
+    "country": "Italy",
+    "code": "GOA"
+  },
+  {
+    "name": "Cagliari Elmas",
+    "country": "Italy",
+    "code": "CAG"
+  },
+  {
+    "name": "Rome Ciampino",
+    "country": "Italy",
+    "code": "CIA"
+  },
+  {
+    "name": "Olbia Costa Smeralda",
+    "country": "Italy",
+    "code": "OLB"
+  },
+  {
+    "name": "Lamezia Terme",
+    "country": "Italy",
+    "code": "SUF"
+  },
+  {
+    "name": "Brindisi Casale",
+    "country": "Italy",
+    "code": "BDS"
+  },
+  {
+    "name": "Alghero Fertilia",
+    "country": "Italy",
+    "code": "AHO"
+  },
+  {
+    "name": "Ancona Falconara",
+    "country": "Italy",
+    "code": "AOI"
+  },
+  {
+    "name": "Cuneo Levaldigi",
+    "country": "Italy",
+    "code": "CUF"
+  },
+  {
+    "name": "Reggio di Calabria",
+    "country": "Italy",
+    "code": "REG"
+  },
+  {
+    "name": "Perugia St. Francis of Assisi",
+    "country": "Italy",
+    "code": "PEG"
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "code": "BCN"
+  },
+  {
+    "name": "Madrid Adolfo Suarez-Barajas",
+    "country": "Spain",
+    "code": "MAD"
+  },
+  {
+    "name": "Malaga",
+    "country": "Spain",
+    "code": "AGP"
+  },
+  {
+    "name": "Palma de Mallorca",
+    "country": "Spain",
+    "code": "PMI"
+  },
+  {
+    "name": "Gran Canaria",
+    "country": "Spain",
+    "code": "LPA"
+  },
+
+  {
+    "name": "Tenerife Sur Reina Sofia",
+    "country": "Spain",
+    "code": "TFS"
+  },
+  {
+    "name": "Tenerife Norte Los Rodeos",
+    "country": "Spain",
+    "code": "TFN"
+  },
+  {
+    "name": "Alicante",
+    "country": "Spain",
+    "code": "ALC"
+  },
+  {
+    "name": "Santiago de Compostela",
+    "country": "Spain",
+    "code": "SCQ"
+  },
+  {
+    "name": "Valencia",
+    "country": "Spain",
+    "code": "VLC"
+  },
+  {
+    "name": "Fuerteventura",
+    "country": "Spain",
+    "code": "FUE"
+  },
+  {
+    "name": "Lanzarote",
+    "country": "Spain",
+    "code": "ACE"
+  },
+  {
+    "name": "Ibiza",
+    "country": "Spain",
+    "code": "IBZ"
+  },
+  {
+    "name": "Sevilla",
+    "country": "Spain",
+    "code": "SVQ"
+  },
+  {
+    "name": "Menorca",
+    "country": "Spain",
+    "code": "MAH"
+  },
+  {
+    "name": "Almeria",
+    "country": "Spain",
+    "code": "LEI"
+  },
+  {
+    "name": "Jerez",
+    "country": "Spain",
+    "code": "XRY"
+  },
+  {
+    "name": "Asturias",
+    "country": "Spain",
+    "code": "OVD"
+  },
+  {
+    "name": "Reus",
+    "country": "Spain",
+    "code": "REU"
+  },
+  {
+    "name": "Valladolid",
+    "country": "Spain",
+    "code": "VLL"
+  },
+  {
+    "name": "Girona Costa Brava",
+    "country": "Spain",
+    "code": "GRO"
+  },
+  {
+    "name": "Santander",
+    "country": "Spain",
+    "code": "SDR"
+  },
+  {
+    "name": "Zaragoza",
+    "country": "Spain",
+    "code": "ZAZ"
+  },
+  {
+    "name": "Warsaw Frederic Chopin",
+    "country": "Poland",
+    "code": "WAW"
+  },
+  {
+    "name": "Krakow John Paul II - Balice",
+    "country": "Poland",
+    "code": "KRK"
+  },
+  {
+    "name": "Gdansk Lech Walesa",
+    "country": "Poland",
+    "code": "GDN"
+  },
+  {
+    "name": "Katowice Pyrzowice",
+    "country": "Poland",
+    "code": "KTW"
+  },
+  {
+    "name": "Rzeszow Jasionka",
+    "country": "Poland",
+    "code": "RZE"
+  },
+  {
+    "name": "Szczecin Goleniow",
+    "country": "Poland",
+    "code": "SZZ"
+  },
+  {
+    "name": "Lublin",
+    "country": "Poland",
+    "code": "LUZ"
+  },
+  {
+    "name": "Bydgoszcz Ignacy Jan Paderewski",
+    "country": "Poland",
+    "code": "BZG"
+  },
+  {
+    "name": "Lodz Wladyslaw Reymont",
+    "country": "Poland",
+    "code": "LCJ"
+  },
+  {
+    "name": "Zielona Gora Babimost",
+    "country": "Poland",
+    "code": "IEG"
+  },
+  {
+    "name": "Warsaw-Modlin Mazovia",
+    "country": "Poland",
+    "code": "WMI"
+  },
+  {
+    "name": "Wroclaw Nicolaus Copernicus",
+    "country": "Poland",
+    "code": "WRO"
+  },
+  {
+    "name": "Amsterdam Schiphol Airport",
+    "country": "Netherlands",
+    "code": "AMS"
+  },
+  {
+    "name": "Eindhoven",
+    "country": "Netherlands",
+    "code": "EIN"
+  },
+  {
+    "name": "Rotterdam",
+    "country": "Netherlands",
+    "code": "RTM"
+  },
+  {
+    "name": "Maastricht/Aachen",
+    "country": "Netherlands",
+    "code": "MST"
+  },
+  {
+    "name": "Groningen Eelde",
+    "country": "Netherlands",
+    "code": "GRQ"
+  },
+  {
+    "name": "Brussels Airport",
+    "country": "Belgium",
+    "code": "BRU"
+  },
+  {
+    "name": "Brussels S. Charleroi",
+    "country": "Belgium",
+    "code": "CRL"
+  },
+  {
+    "name": "Liege",
+    "country": "Belgium",
+    "code": "LGG"
+  },
+  {
+    "name": "Antwerp International",
+    "country": "Belgium",
+    "code": "ANR"
+  },
+  {
+    "name": "Prague Ruzyne",
+    "country": "Czech Republic",
+    "code": "PRG"
+  },
+  {
+    "name": "Ostrava Leos Janacek",
+    "country": "Czech Republic",
+    "code": "OSR"
+  },
+  {
+    "name": "Pardubice",
+    "country": "Czech Republic",
+    "code": "PED"
+  },
+  {
+    "name": "Brno Turany",
+    "country": "Czech Republic",
+    "code": "BRQ"
+  },
+  {
+    "name": "Athens Eleftherios Venizelos",
+    "country": "Greece",
+    "code": "ATH"
+  },
+  {
+    "name": "Irakleion Nikos Kazantzakis",
+    "country": "Greece",
+    "code": "HER"
+  },
+  {
+    "name": "Thessaloniki Makedonia",
+    "country": "Greece",
+    "code": "SKG"
+  },
+  {
+    "name": "Rhodes Diagoras",
+    "country": "Greece",
+    "code": "RHO"
+  },
+  {
+    "name": "Ioannina King Pyrros",
+    "country": "Greece",
+    "code": "IOA"
+  },
+  {
+    "name": "Kos Ippokratis",
+    "country": "Greece",
+    "code": "KGS"
+  },
+  {
+    "name": "Chania Ioannis Daskalogiannis",
+    "country": "Greece",
+    "code": "CHQ"
+  },
+  {
+    "name": "Zakynthos Island Dionisios Solomos",
+    "country": "Greece",
+    "code": "ZTH"
+  },
+  {
+    "name": "Kalamata",
+    "country": "Greece",
+    "code": "KLX"
+  },
+  {
+    "name": "Kefallinia",
+    "country": "Greece",
+    "code": "EFL"
+  },
+  {
+    "name": "Preveza/Lefkada Aktion",
+    "country": "Greece",
+    "code": "PVK"
+  },
+  {
+    "name": "Aristarchos of Samos",
+    "country": "Greece",
+    "code": "SMI"
+  },
+  {
+    "name": "Chios Omiros",
+    "country": "Greece",
+    "code": "JKH"
+  },
+  {
+    "name": "Mytilini Odysseas Elytis",
+    "country": "Greece",
+    "code": "MJT"
+  },
+  {
+    "name": "Skiathos Alex. Papadiamantis",
+    "country": "Greece",
+    "code": "JSI"
+  },
+  {
+    "name": "Limnos",
+    "country": "Greece",
+    "code": "LXS"
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "code": "LIS"
+  },
+  {
+    "name": "Porto Francisco Sa Carneiro",
+    "country": "Portugal",
+    "code": "OPO"
+  },
+  {
+    "name": "Faro",
+    "country": "Portugal",
+    "code": "FAO"
+  },
+  {
+    "name": "Terceira Island Lajes",
+    "country": "Portugal",
+    "code": "TER"
+  },
+  {
+    "name": "Santa Maria Island",
+    "country": "Portugal",
+    "code": "SMA"
+  },
+  {
+    "name": "Horta",
+    "country": "Portugal",
+    "code": "HOR"
+  },
+  {
+    "name": "Flores Island",
+    "country": "Portugal",
+    "code": "FLW"
+  },
+  {
+    "name": "Graciosa Island",
+    "country": "Portugal",
+    "code": "GRW"
+  },
+  {
+    "name": "Corvo Island",
+    "country": "Portugal",
+    "code": "CVU"
+  },
+  {
+    "name": "Stockholm Arlanda",
+    "country": "Sweden",
+    "code": "ARN"
+  },
+  {
+    "name": "Stockholm Bromma",
+    "country": "Sweden",
+    "code": "BMA"
+  },
+  {
+    "name": "Stockholm Skavsta",
+    "country": "Sweden",
+    "code": "NYO"
+  },
+  {
+    "name": "Stockholm Vasteras",
+    "country": "Sweden",
+    "code": "VST"
+  },
+  {
+    "name": "Goteborg Landvetter",
+    "country": "Sweden",
+    "code": "GOT"
+  },
+  {
+    "name": "Malmo International",
+    "country": "Sweden",
+    "code": "MMX"
+  },
+  {
+    "name": "Lulea Kallax",
+    "country": "Sweden",
+    "code": "LLA"
+  },
+  {
+    "name": "Vaxjo Smaland",
+    "country": "Sweden",
+    "code": "VXO"
+  },
+  {
+    "name": "Sundsvall/Harnosand Sundsvall-Timra",
+    "country": "Sweden",
+    "code": "SDL"
+  },
+  {
+    "name": "Halmstad",
+    "country": "Sweden",
+    "code": "HAD"
+  },
+  {
+    "name": "Visby",
+    "country": "Sweden",
+    "code": "VBY"
+  },
+  {
+    "name": "Ronneby/Karlskrona Kallinge",
+    "country": "Sweden",
+    "code": "RNB"
+  },
+  {
+    "name": "Kalmar",
+    "country": "Sweden",
+    "code": "KLR"
+  },
+  {
+    "name": "Gallivare",
+    "country": "Sweden",
+    "code": "GEV"
+  },
+  {
+    "name": "Kiruna",
+    "country": "Sweden",
+    "code": "KRN"
+  },
+  {
+    "name": "Are/Ostersund",
+    "country": "Sweden",
+    "code": "OSD"
+  },
+  {
+    "name": "Budapest Liszt Ferenc International",
+    "country": "Hungary",
+    "code": "BUD"
+  },
+  {
+    "name": "Debrecen",
+    "country": "Hungary",
+    "code": "DEB"
+  },
+  {
+    "name": "Minsk Int'l",
+    "country": "Belarus",
+    "code": "MSQ"
+  },
+  {
+    "name": "Vienna Schwechat International",
+    "country": "Austria",
+    "code": "VIE"
+  },
+  {
+    "name": "Salzburg W.A. Mozart",
+    "country": "Austria",
+    "code": "SZG"
+  },
+  {
+    "name": "Graz",
+    "country": "Austria",
+    "code": "GRZ"
+  },
+  {
+    "name": "Innsbruck Kranebitten",
+    "country": "Austria",
+    "code": "INN"
+  },
+  {
+    "name": "Linz Blue Danube Hoersching",
+    "country": "Austria",
+    "code": "LNZ"
+  },
+  {
+    "name": "Klagenfurt",
+    "country": "Austria",
+    "code": "KLU"
+  },
+  {
+    "name": "Belgrade Nikola Tesla",
+    "country": "Serbia",
+    "code": "BEG"
+  },
+  {
+    "name": "Nis Konstantin Veliki",
+    "country": "Serbia",
+    "code": "INI"
+  },
+  {
+    "name": "Zurich Airport",
+    "country": "Switzerland",
+    "code": "ZRH"
+  },
+  {
+    "name": "Geneva International",
+    "country": "Switzerland",
+    "code": "GVA"
+  },
+  {
+    "name": "St Gallen-Altenrhein",
+    "country": "Switzerland",
+    "code": "ACH"
+  },
+  {
+    "name": "Bern Belp",
+    "country": "Switzerland",
+    "code": "BRN"
+  },
+  {
+    "name": "Sofia",
+    "country": "Bulgaria",
+    "code": "SOF"
+  },
+  {
+    "name": "Burgas",
+    "country": "Bulgaria",
+    "code": "BOJ"
+  },
+  {
+    "name": "Varna",
+    "country": "Bulgaria",
+    "code": "VAR"
+  },
+  {
+    "name": "Plovdiv Krumovo",
+    "country": "Bulgaria",
+    "code": "PDV"
+  },
+  {
+    "name": "Copenhagen Kastrup",
+    "country": "Denmark",
+    "code": "CPH"
+  },
+  {
+    "name": "Copenhagen Roskilde",
+    "country": "Denmark",
+    "code": "RKE"
+  },
+  {
+    "name": "Billund",
+    "country": "Denmark",
+    "code": "BLL"
+  },
+  {
+    "name": "Aalborg",
+    "country": "Denmark",
+    "code": "AAL"
+  },
+  {
+    "name": "Aarhus",
+    "country": "Denmark",
+    "code": "AAR"
+  },
+  {
+    "name": "Esbjerg",
+    "country": "Denmark",
+    "code": "EBJ"
+  },
+  {
+    "name": "Karup Midtjyllands",
+    "country": "Denmark",
+    "code": "KRP"
+  },
+  {
+    "name": "Bornholm Ronne",
+    "country": "Denmark",
+    "code": "RNN"
+  },
+  {
+    "name": "Sonderborg",
+    "country": "Denmark",
+    "code": "SGD"
+  },
+  {
+    "name": "Odense Beldringe",
+    "country": "Denmark",
+    "code": "ODE"
+  },
+  {
+    "name": "Helsinki-Vantaa",
+    "country": "Finland",
+    "code": "HEL"
+  },
+  {
+    "name": "Turku",
+    "country": "Finland",
+    "code": "TKU"
+  },
+  {
+    "name": "Tampere-Pirkkala",
+    "country": "Finland",
+    "code": "TMP"
+  },
+  {
+    "name": "Kokkola/Pietarsaari Kruunupyy",
+    "country": "Finland",
+    "code": "KOK"
+  },
+  {
+    "name": "Oulu",
+    "country": "Finland",
+    "code": "OUL"
+  },
+  {
+    "name": "Jyvaskyla",
+    "country": "Finland",
+    "code": "JYV"
+  },
+  {
+    "name": "Pori",
+    "country": "Finland",
+    "code": "POR"
+  },
+  {
+    "name": "Bratislava M.R. Stefanik",
+    "country": "Slovakia",
+    "code": "BTS"
+  },
+  {
+    "name": "Kosice",
+    "country": "Slovakia",
+    "code": "KSC"
+  },
+  {
+    "name": "Poprad Tatry",
+    "country": "Slovakia",
+    "code": "TAT"
+  },
+  {
+    "name": "Oslo Gardermoen",
+    "country": "Norway",
+    "code": "OSL"
+  },
+  {
+    "name": "Stavanger Sola",
+    "country": "Norway",
+    "code": "SVG"
+  },
+  {
+    "name": "Bergen Flesland",
+    "country": "Norway",
+    "code": "BGO"
+  },
+  {
+    "name": "Trondheim Vaernes",
+    "country": "Norway",
+    "code": "TRD"
+  },
+  {
+    "name": "Tromso Langnes",
+    "country": "Norway",
+    "code": "TOS"
+  },
+  {
+    "name": "Bodo",
+    "country": "Norway",
+    "code": "BOO"
+  },
+  {
+    "name": "Sandefjord Torp",
+    "country": "Norway",
+    "code": "TRF"
+  },
+  {
+    "name": "Alesund Vigra",
+    "country": "Norway",
+    "code": "AES"
+  },
+  {
+    "name": "Kristiansand Kjevik",
+    "country": "Norway",
+    "code": "KRS"
+  },
+  {
+    "name": "Haugesund Karmoy",
+    "country": "Norway",
+    "code": "HAU"
+  },
+  {
+    "name": "Harstad/Narvik Evenes",
+    "country": "Norway",
+    "code": "EVE"
+  },
+  {
+    "name": "Molde Aro",
+    "country": "Norway",
+    "code": "MOL"
+  },
+  {
+    "name": "Alta",
+    "country": "Norway",
+    "code": "ALF"
+  },
+  {
+    "name": "Hammerfest",
+    "country": "Norway",
+    "code": "HFT"
+  },
+  {
+    "name": "Dublin International",
+    "country": "Ireland",
+    "code": "DUB"
+  },
+  {
+    "name": "Shannon International",
+    "country": "Ireland",
+    "code": "SNN"
+  },
+  {
+    "name": "Cork International",
+    "country": "Ireland",
+    "code": "ORK"
+  },
+  {
+    "name": "Knock Ireland West",
+    "country": "Ireland",
+    "code": "NOC"
+  },
+  {
+    "name": "Kerry",
+    "country": "Ireland",
+    "code": "KIR"
+  },
+  {
+    "name": "Donegal",
+    "country": "Ireland",
+    "code": "CFN"
+  },
+  {
+    "name": "Zagreb Franjo Tudman",
+    "country": "Croatia",
+    "code": "ZAG"
+  },
+  {
+    "name": "Dubrovnik",
+    "country": "Croatia",
+    "code": "DBV"
+  },
+  {
+    "name": "Split",
+    "country": "Croatia",
+    "code": "SPU"
+  },
+  {
+    "name": "Pula",
+    "country": "Croatia",
+    "code": "PUY"
+  },
+  {
+    "name": "Zadar",
+    "country": "Croatia",
+    "code": "ZAD"
+  },
+  {
+    "name": "Rijeka",
+    "country": "Croatia",
+    "code": "RJK"
+  },
+  {
+    "name": "Chisinau International",
+    "country": "Moldova",
+    "code": "KIV"
+  },
+  {
+    "name": "Sarajevo International",
+    "country": "Bosnia-Herzegovina",
+    "code": "SJJ"
+  },
+  {
+    "name": "Tuzla International",
+    "country": "Bosnia-Herzegovina",
+    "code": "TZL"
+  },
+  {
+    "name": "Mostar International",
+    "country": "Bosnia-Herzegovina",
+    "code": "OMO"
+  },
+  {
+    "name": "Banja Luka International",
+    "country": "Bosnia-Herzegovina",
+    "code": "BNX"
+  },
+  {
+    "name": "Tirana Nene Tereza International",
+    "country": "Albania",
+    "code": "TIA"
+  },
+  {
+    "name": "Kukes International",
+    "country": "Albania",
+    "code": "KFZ"
+  },
+  {
+    "name": "Vilnius International",
+    "country": "Lithuania",
+    "code": "VNO"
+  },
+  {
+    "name": "Klaipeda/Palanga Palanga International",
+    "country": "Lithuania",
+    "code": "PLQ"
+  },
+  {
+    "name": "Kaunas International",
+    "country": "Lithuania",
+    "code": "KUN"
+  },
+  {
+    "name": "Skopje International",
+    "country": "North Macedonia",
+    "code": "SKP"
+  },
+  {
+    "name": "Ohrid St.Paul the Apostle",
+    "country": "North Macedonia",
+    "code": "OHD"
+  },
+  {
+    "name": "Ljubljana Joze Pucnik",
+    "country": "Slovenia",
+    "code": "LJU"
+  },
+  {
+    "name": "Riga International",
+    "country": "Latvia",
+    "code": "RIX"
+  },
+  {
+    "name": "Tallinn Lennart Meri",
+    "country": "Estonia",
+    "code": "TLL"
+  },
+  {
+    "name": "Kuressaare",
+    "country": "Estonia",
+    "code": "URE"
+  },
+  {
+    "name": "Parnu",
+    "country": "Estonia",
+    "code": "EPU"
+  },
+  {
+    "name": "Podgorica",
+    "country": "Montenegro",
+    "code": "TGD"
+  },
+  {
+    "name": "Tivat",
+    "country": "Montenegro",
+    "code": "TIV"
+  },
+  {
+    "name": "Luxembourg",
+    "country": "Luxembourg",
+    "code": "LUX"
+  },
+  {
+    "name": "Malta Luqa International",
+    "country": "Malta",
+    "code": "MLA"
+  },
+  {
+    "name": "Reykjavik Keflavik International",
+    "country": "Iceland",
+    "code": "KEF"
+  },
+  {
+    "name": "Akureyri",
+    "country": "Iceland",
+    "code": "AEY"
+  },
+  {
+    "name": "Egilsstadir",
+    "country": "Iceland",
+    "code": "EGS"
+  },
+  {
+    "name": "Isafjordur",
+    "country": "Iceland",
+    "code": "IFJ"
+  },
+  {
+    "name": "Atlanta Hartsfield-Jackson International",
+    "country": "GA",
+    "code": "ATL"
+  },
+  {
+    "name": "Dallas/Fort Worth International",
+    "country": "TX",
+    "code": "DFW"
+  },
+  {
+    "name": "Chicago O'Hare",
+    "country": "IL",
+    "code": "ORD"
+  },
+  {
+    "name": "Los Angeles International",
+    "country": "CA",
+    "code": "LAX"
+  },
+  {
+    "name": "Charlotte Douglas International",
+    "country": "NC",
+    "code": "CLT"
+  },
+  {
+    "name": "Miami International",
+    "country": "FL",
+    "code": "MIA"
+  },
+  {
+    "name": "Seattle-Tacoma International",
+    "country": "WA",
+    "code": "SEA"
+  },
+  {
+    "name": "Houston George Bush Intercont.",
+    "country": "TX",
+    "code": "IAH"
+  },
+  {
+    "name": "New York John F Kennedy International",
+    "country": "NY",
+    "code": "JFK"
+  },
+  {
+    "name": "Newark Liberty International",
+    "country": "NJ",
+    "code": "EWR"
+  },
+  {
+    "name": "Fort Lauderdale International",
+    "country": "FL",
+    "code": "FLL"
+  },
+  {
+    "name": "Minneapolis/St Paul International",
+    "country": "MN",
+    "code": "MSP"
+  },
+  {
+    "name": "San Francisco International",
+    "country": "CA",
+    "code": "SFO"
+  },
+  {
+    "name": "Detroit Metropolitan Wayne County",
+    "country": "MI",
+    "code": "DTW"
+  },
+  {
+    "name": "Boston Edward L. Logan International",
+    "country": "MA",
+    "code": "BOS"
+  },
+  {
+    "name": "Salt Lake City International",
+    "country": "UT",
+    "code": "SLC"
+  },
+  {
+    "name": "Philadelphia International",
+    "country": "PA",
+    "code": "PHL"
+  },
+  {
+    "name": "Baltimore Washington Int'l",
+    "country": "MD",
+    "code": "BWI"
+  },
+  {
+    "name": "San Diego International",
+    "country": "CA",
+    "code": "SAN"
+  },
+  {
+    "name": "New York LaGuardia",
+    "country": "NY",
+    "code": "LGA"
+  },
+  {
+    "name": "Chicago Midway International",
+    "country": "IL",
+    "code": "MDW"
+  },
+  {
+    "name": "Nashville International",
+    "country": "TN",
+    "code": "BNA"
+  },
+  {
+    "name": "Austin-Bergstrom International",
+    "country": "TX",
+    "code": "AUS"
+  },
+  {
+    "name": "Dallas Love Field",
+    "country": "TX",
+    "code": "DAL"
+  },
+  {
+    "name": "Portland International",
+    "country": "OR",
+    "code": "PDX"
+  },
+  {
+    "name": "St. Louis Lambert Int'l",
+    "country": "MO",
+    "code": "STL"
+  },
+  {
+    "name": "San Juan Luis Munoz Marin International",
+    "country": "PR",
+    "code": "SJU"
+  },
+  {
+    "name": "Raleigh/Durham International",
+    "country": "NC",
+    "code": "RDU"
+  },
+  {
+    "name": "Oakland International",
+    "country": "CA",
+    "code": "OAK"
+  },
+  {
+    "name": "Santa Ana John Wayne",
+    "country": "CA",
+    "code": "SNA"
+  },
+ 
+  {
+    "name": "San Antonio International",
+    "country": "TX",
+    "code": "SAT"
+  },
+  {
+    "name": "Indianapolis International",
+    "country": "IN",
+    "code": "IND"
+  },
+  {
+    "name": "Pittsburgh International",
+    "country": "PA",
+    "code": "PIT"
+  },
+  {
+    "name": "Cincinnati Northern Kentucky International",
+    "country": "OH",
+    "code": "CVG"
+  },
+  {
+    "name": "Kahului",
+    "country": "HI",
+    "code": "OGG"
+  },
+  {
+    "name": "Palm Beach International",
+    "country": "FL",
+    "code": "PBI"
+  },
+  {
+    "name": "Jacksonville International",
+    "country": "FL",
+    "code": "JAX"
+  },
+  {
+    "name": "Hartford/Springfield Bradley Int'l",
+    "country": "CT",
+    "code": "BDL"
+  },
+  {
+    "name": "Milwaukee General Mitchell International",
+    "country": "WI",
+    "code": "MKE"
+  },
+  {
+    "name": "Ontario, California Int'l",
+    "country": "CA",
+    "code": "ONT"
+  },
+  {
+    "name": "Charleston International/AFB",
+    "country": "SC",
+    "code": "CHS"
+  },
+  {
+    "name": "Memphis International",
+    "country": "TN",
+    "code": "MEM"
+  },
+  {
+    "name": "Reno/Tahoe International",
+    "country": "NV",
+    "code": "RNO"
+  },
+  {
+    "name": "Albuquerque International Sunport",
+    "country": "NM",
+    "code": "ABQ"
+  },
+  {
+    "name": "Norfolk International",
+    "country": "VA",
+    "code": "ORF"
+  },
+  {
+    "name": "Honolulu Daniel K. Inouye International",
+    "country": "HI",
+    "code": "HNL"
+  },
+  {
+    "name": "Kahului",
+    "country": "HI",
+    "code": "OGG"
+  },
+  {
+    "name": "Lihue",
+    "country": "HI",
+    "code": "LIH"
+  },
+  {
+    "name": "Stevens Village",
+    "country": "AK",
+    "code": "SVS"
+  },
+  {
+    "name": "Toronto Lester B. Pearson International, ON",
+    "country": "Canada",
+    "code": "YYZ"
+  },
+
+  {
+    "name": "Montreal Pierre E.Trudeau International, QC",
+    "country": "Canada",
+    "code": "YUL"
+  },
+  {
+    "name": "Vancouver International, BC",
+    "country": "Canada",
+    "code": "YVR"
+  },
+  {
+    "name": "Vancouver Harbour SPB, BC",
+    "country": "Canada",
+    "code": "CXH"
+  },
+  {
+    "name": "Calgary International, AB",
+    "country": "Canada",
+    "code": "YYC"
+  },
+  {
+    "name": "Edmonton International, AB",
+    "country": "Canada",
+    "code": "YEG"
+  },
+  {
+    "name": "Halifax Stanfield International, NS",
+    "country": "Canada",
+    "code": "YHZ"
+  },
+  {
+    "name": "Ottawa Macdonald-Cartier International, ON",
+    "country": "Canada",
+    "code": "YOW"
+  },
+  {
+    "name": "Winnipeg J.A. Richardson International, MB",
+    "country": "Canada",
+    "code": "YWG"
+  },
+  {
+    "name": "St John's International, NL",
+    "country": "Canada",
+    "code": "YYT"
+  },
+  {
+    "name": "Quebec Jean Lesage International, QC",
+    "country": "Canada",
+    "code": "YQB"
+  },
+  {
+    "name": "Yellowknife, NT",
+    "country": "Canada",
+    "code": "YZF"
+  },
+  {
+    "name": "Kelowna International, BC",
+    "country": "Canada",
+    "code": "YLW"
+  },
+  {
+    "name": "Sept-Iles, QC",
+    "country": "Canada",
+    "code": "YZV"
+  },
+  {
+    "name": "Greater Moncton International, NB",
+    "country": "Canada",
+    "code": "YQM"
+  },
+  {
+    "name": "Thunder Bay International, ON",
+    "country": "Canada",
+    "code": "YQT"
+  },
+  {
+    "name": "Wabush, NL",
+    "country": "Canada",
+    "code": "YWK"
+  },
+  {
+    "name": "Fort McMurray Apt, AB",
+    "country": "Canada",
+    "code": "YMM"
+  },
+  {
+    "name": "Regina International, SK",
+    "country": "Canada",
+    "code": "YQR"
+  },
+  {
+    "name": "Saskatoon J.G. Diefenbaker International, SK",
+    "country": "Canada",
+    "code": "YXE"
+  },
+  {
+    "name": "Inuvik Mike Zubko, NT",
+    "country": "Canada",
+    "code": "YEV"
+  },
+  {
+    "name": "Waterloo Regional",
+    "country": "IA",
+    "code": "ALO"
+  },
+  {
+    "name": "Rankin Inlet, NU",
+    "country": "Canada",
+    "code": "YRT"
+  },
+  {
+    "name": "Rouyn-Noranda, QC",
+    "country": "Canada",
+    "code": "YUY"
+  },
+  {
+    "name": "Sudbury, ON",
+    "country": "Canada",
+    "code": "YSB"
+  },
+  {
+    "name": "Cancun International",
+    "country": "Mexico",
+    "code": "CUN"
+  },
+  {
+    "name": "Mexico City Benito Juarez International",
+    "country": "Mexico",
+    "code": "MEX"
+  },
+  {
+    "name": "Puerto Vallarta G.Diaz Ordaz International",
+    "country": "Mexico",
+    "code": "PVR"
+  },
+  {
+    "name": "Guadalajara Miguel Hidalgo International",
+    "country": "Mexico",
+    "code": "GDL"
+  },
+  {
+    "name": "Monterrey Mariano Escobedo International",
+    "country": "Mexico",
+    "code": "MTY"
+  },
+  {
+    "name": "Hermosillo I.Pesqueira Garcia",
+    "country": "Mexico",
+    "code": "HMO"
+  },
+  {
+    "name": "Acapulco Juan N. Alvarez International",
+    "country": "Mexico",
+    "code": "ACA"
+  },
+  {
+    "name": "Tijuana A.L. Rodriguez International",
+    "country": "Mexico",
+    "code": "TIJ"
+  },
+  {
+    "name": "Cozumel International",
+    "country": "Mexico",
+    "code": "CZM"
+  },
+  {
+    "name": "Merida M. Crescencio Rejon",
+    "country": "Mexico",
+    "code": "MID"
+  },
+  {
+    "name": "Chihuahua R. Fierro Villalobos",
+    "country": "Mexico",
+    "code": "CUU"
+  },
+  {
+    "name": "Mazatlan Rafael Buelna International",
+    "country": "Mexico",
+    "code": "MZT"
+  },
+  {
+    "name": "Villahermosa C.Rovirosa Perez International",
+    "country": "Mexico",
+    "code": "VSA"
+  },
+  {
+    "name": "Veracruz Heriberto Jara International",
+    "country": "Mexico",
+    "code": "VER"
+  },
+  {
+    "name": "Ixtapa/Zihuatanejo International",
+    "country": "Mexico",
+    "code": "ZIH"
+  },
+  {
+    "name": "Aguascalientes Jesus Teran Peredo International",
+    "country": "Mexico",
+    "code": "AGU"
+  },
+  {
+    "name": "Queretaro Intercontinental",
+    "country": "Mexico",
+    "code": "QRO"
+  },
+  {
+    "name": "San Luis Potosi Ponciano Arriaga International",
+    "country": "Mexico",
+    "code": "SLP"
+  },
+  {
+    "name": "Torreon Francisco Sarabia International",
+    "country": "Mexico",
+    "code": "TRC"
+  },
+  {
+    "name": "Manzanillo Playa de Oro International",
+    "country": "Mexico",
+    "code": "ZLO"
+  },
+  {
+    "name": "Culiacan Fed. de Bachigualato",
+    "country": "Mexico",
+    "code": "CUL"
+  },
+  {
+    "name": "Oaxaca Xoxocotlan International",
+    "country": "Mexico",
+    "code": "OAX"
+  },
+  {
+    "name": "Puebla Hermanos Serdan International",
+    "country": "Mexico",
+    "code": "PBC"
+  },
+  {
+    "name": "Zacatecas Leobardo C. Ruiz International",
+    "country": "Mexico",
+    "code": "ZCL"
+  },
+  {
+    "name": "Ciudad Juarez Abraham Gonzalez International",
+    "country": "Mexico",
+    "code": "CJS"
+  },
+  {
+    "name": "La Paz Manuel Marquez de Leon",
+    "country": "Mexico",
+    "code": "LAP"
+  },
+  {
+    "name": "Reynosa Lucio Blanco International",
+    "country": "Mexico",
+    "code": "REX"
+  },
+  {
+    "name": "Anguilla Clayton J. Lloyd International",
+    "country": "Anguilla",
+    "code": "AXA"
+  },
+  {
+    "name": "Antigua V.C. Bird International",
+    "country": "Antigua and Barbuda",
+    "code": "ANU"
+  },
+  {
+    "name": "Aruba Reina Beatrix",
+    "country": "Aruba",
+    "code": "AUA"
+  },
+  {
+    "name": "Nassau Lynden Pindling International",
+    "country": "Bahamas",
+    "code": "NAS"
+  },
+  {
+    "name": "George Town Exuma International",
+    "country": "Bahamas",
+    "code": "GGT"
+  },
+  {
+    "name": "Freeport Grand Bahama International",
+    "country": "Bahamas",
+    "code": "FPO"
+  },
+  {
+    "name": "Marsh Harbour",
+    "country": "Bahamas",
+    "code": "MHH"
+  },
+  {
+    "name": "North Eleuthera",
+    "country": "Bahamas",
+    "code": "ELH"
+  },
+  {
+    "name": "San Salvador Cockburn Town",
+    "country": "Bahamas",
+    "code": "ZSA"
+  },
+  {
+    "name": "Governor's Harbour",
+    "country": "Bahamas",
+    "code": "GHB"
+  },
+  {
+    "name": "Bermuda L.F Wade International",
+    "country": "Bermuda",
+    "code": "BDA"
+  },
+  {
+    "name": "Bonaire Flamingo International, Bonaire",
+    "country": "Saint Eustatius and Saba",
+    "code": "BON"
+  },
+  {
+    "name": "Tortola Terrance B. Lettsome",
+    "country": "British Virgin Islands",
+    "code": "EIS"
+  },
+  {
+    "name": "Cayman Brac C. Kirkconnell International",
+    "country": "Cayman Islands",
+    "code": "CYB"
+  },
+  {
+    "name": "San Jose Juan Santamaria International",
+    "country": "Costa Rica",
+    "code": "SJO"
+  },
+  {
+    "name": "Havana Jose Marti International",
+    "country": "Cuba",
+    "code": "HAV"
+  },
+  {
+    "name": "Varadero Juan G. Gomez International",
+    "country": "Cuba",
+    "code": "VRA"
+  },
+  {
+    "name": "Holguin Frank Pais International",
+    "country": "Cuba",
+    "code": "HOG"
+  },
+  {
+    "name": "Cayo Coco Jardines del Rey",
+    "country": "Cuba",
+    "code": "CCC"
+  },
+  {
+    "name": "Cayo Largo del Sur Vilo Acuna International",
+    "country": "Cuba",
+    "code": "CYO"
+  },
+  {
+    "name": "Santiago de Cuba Antonio Maceo International",
+    "country": "Cuba",
+    "code": "SCU"
+  },
+  {
+    "name": "Camaguey Ignacio Agramonte International",
+    "country": "Cuba",
+    "code": "CMW"
+  },
+  {
+    "name": "Curacao Hato International",
+    "country": "Curacao",
+    "code": "CUR"
+  },
+  {
+    "name": "Dominica Melville Hall",
+    "country": "Dominica",
+    "code": "DOM"
+  },
+  {
+    "name": "Dominica Canefield",
+    "country": "Dominica",
+    "code": "DCF"
+  },
+  {
+    "name": "Nuuk",
+    "country": "Greenland",
+    "code": "GOH"
+  },
+  {
+    "name": "Aasiaat",
+    "country": "Greenland",
+    "code": "JEG"
+  },
+  {
+    "name": "Narsarsuaq",
+    "country": "Greenland",
+    "code": "UAK"
+  },
+  {
+    "name": "Kangerlussuaq",
+    "country": "Greenland",
+    "code": "SFJ"
+  },
+  {
+    "name": "Kulusuk",
+    "country": "Greenland",
+    "code": "KUS"
+  },
+  {
+    "name": "Ilulissat",
+    "country": "Greenland",
+    "code": "JAV"
+  },
+  {
+    "name": "Upernavik",
+    "country": "Greenland",
+    "code": "JUV"
+  },
+  {
+    "name": "Grenada Maurice Bishop International",
+    "country": "Grenada",
+    "code": "GND"
+  },
+  {
+    "name": "Pointe-a-Pitre Le Raizet",
+    "country": "Guadeloupe",
+    "code": "PTP"
+  },
+  {
+    "name": "Marie-Galante",
+    "country": "Guadeloupe",
+    "code": "GBJ"
+  },
+  {
+    "name": "Guatemala City La Aurora International",
+    "country": "Guatemala",
+    "code": "GUA"
+  },
+  {
+    "name": "Port-au-Prince Toussaint Louverture",
+    "country": "Haiti",
+    "code": "PAP"
+  },
+  {
+    "name": "Cap-Haitien Hugo Chavez International",
+    "country": "Haiti",
+    "code": "CAP"
+  },
+  {
+    "name": "Jeremie",
+    "country": "Haiti",
+    "code": "JEE"
+  },
+  {
+    "name": "Les Cayes Antoine-Simon",
+    "country": "Haiti",
+    "code": "CYA"
+  },
+  {
+    "name": "San Pedro Sula Ramon V. Morales International",
+    "country": "Honduras",
+    "code": "SAP"
+  },
+  {
+    "name": "Roatan Juan Manuel Galvez",
+    "country": "Honduras",
+    "code": "RTB"
+  },
+  {
+    "name": "La Ceiba Goloson International",
+    "country": "Honduras",
+    "code": "LCE"
+  },
+  {
+    "name": "Montego Bay Sangster International",
+    "country": "Jamaica",
+    "code": "MBJ"
+  },
+  {
+    "name": "Kingston Norman Manley International",
+    "country": "Jamaica",
+    "code": "KIN"
+  },
+  {
+    "name": "Ocho Rios Ian Fleming International",
+    "country": "Jamaica",
+    "code": "OCJ"
+  },
+  {
+    "name": "Managua Augusto C. Sandino International",
+    "country": "Nicaragua",
+    "code": "MGA"
+  },
+  {
+    "name": "Panama City Tocumen International",
+    "country": "Panama",
+    "code": "PTY"
+  },
+  {
+    "name": "David Enrique Malek International",
+    "country": "Panama",
+    "code": "DAV"
+  },
+  {
+    "name": "Ponce Mercedita",
+    "country": "PR",
+    "code": "PSE"
+  },
+  {
+    "name": "Aguadilla Rafael Hernandez",
+    "country": "PR",
+    "code": "BQN"
+  },
+  {
+    "name": "St Kitts Robert L. Bradshaw International",
+    "country": "Saint Kitts and Nevis",
+    "code": "SKB"
+  },
+  {
+    "name": "St Lucia Hewanorra International",
+    "country": "Saint Lucia",
+    "code": "UVF"
+  },
+  {
+    "name": "St Lucia George F.L. Charles",
+    "country": "Saint Lucia",
+    "code": "SLU"
+  },
+  {
+    "name": "St Vincent Argyle International",
+    "country": "Saint Vincent and the Grenadines",
+    "code": "SVD"
+  },
+  {
+    "name": "St Maarten Princess Juliana International",
+    "country": "Sint Maarten",
+    "code": "SXM"
+  },
+  {
+    "name": "St Martin Grand-Case L'Esperance",
+    "country": "Saint Martin",
+    "code": "SFG"
+  },
+  {
+    "name": "Port of Spain Piarco International",
+    "country": "Trinidad and Tobago",
+    "code": "POS"
+  },
+  {
+    "name": "Tobago A.N.R. Robinson International",
+    "country": "Trinidad and Tobago",
+    "code": "TAB"
+  },
+  {
+    "name": "Providenciales International",
+    "country": "Turks and Caicos Islands",
+    "code": "PLS"
+  },
+  {
+    "name": "St Thomas Island Cyril E. King",
+    "country": "VI",
+    "code": "STT"
+  },
+  {
+    "name": "Buenos Aires Ministro Pistarini",
+    "country": "Argentina",
+    "code": "EZE"
+  },
+  {
+    "name": "Buenos Aires Jorge Newbery",
+    "country": "Argentina",
+    "code": "AEP"
+  },
+  {
+    "name": "Cordoba A.L.V. Taravella",
+    "country": "Argentina",
+    "code": "COR"
+  },
+  {
+    "name": "Rosario Islas Malvinas",
+    "country": "Argentina",
+    "code": "ROS"
+  },
+  {
+    "name": "Mendoza El Plumerillo",
+    "country": "Argentina",
+    "code": "MDZ"
+  },
+  {
+    "name": "Salta Martin M. de Guemes",
+    "country": "Argentina",
+    "code": "SLA"
+  },
+  {
+    "name": "Comodoro Rivadavia General E. Mosconi",
+    "country": "Argentina",
+    "code": "CRD"
+  },
+  {
+    "name": "Rio Gallegos Piloto N. Fernandez",
+    "country": "Argentina",
+    "code": "RGL"
+  },
+  {
+    "name": "Bahia Blanca Comandante Espora",
+    "country": "Argentina",
+    "code": "BHI"
+  },
+  {
+    "name": "Neuquen Presidente Peron",
+    "country": "Argentina",
+    "code": "NQN"
+  },
+  {
+    "name": "San Carlos Bariloche",
+    "country": "Argentina",
+    "code": "BRC"
+  },
+  {
+    "name": "La Paz El Alto International",
+    "country": "Bolivia",
+    "code": "LPB"
+  },
+  {
+    "name": "Cochabamba Jorge Wilstermann International",
+    "country": "Bolivia",
+    "code": "CBB"
+  },
+  {
+    "name": "Santa Cruz Viru Viru International",
+    "country": "Bolivia",
+    "code": "VVI"
+  },
+  {
+    "name": "Tarija Cap. Oriel Lea Plaza",
+    "country": "Bolivia",
+    "code": "TJA"
+  },
+  {
+    "name": "Cobija Capitan Anibal Arab",
+    "country": "Bolivia",
+    "code": "CIJ"
+  },
+  {
+    "name": "Sucre Alcantari",
+    "country": "Bolivia",
+    "code": "SRE"
+  },
+  {
+    "name": "Sao Paulo Guarulhos International",
+    "country": "Brazil",
+    "code": "GRU"
+  },
+  {
+    "name": "Sao Paulo Viracopos-Campinas International",
+    "country": "Brazil",
+    "code": "VCP"
+  },
+  {
+    "name": "Sao Paulo Congonhas",
+    "country": "Brazil",
+    "code": "CGH"
+  },
+  {
+    "name": "Rio de Janeiro Galeao-A.C.Jobim International",
+    "country": "Brazil",
+    "code": "GIG"
+  },
+  {
+    "name": "Rio de Janeiro Santos Dumont",
+    "country": "Brazil",
+    "code": "SDU"
+  },
+  {
+    "name": "Brasilia J. Kubitschek International",
+    "country": "Brazil",
+    "code": "BSB"
+  },
+  {
+    "name": "Curitiba Afonso Pena International",
+    "country": "Brazil",
+    "code": "CWB"
+  },
+  {
+    "name": "Salvador Luis E. Magalhaes International",
+    "country": "Brazil",
+    "code": "SSA"
+  },
+  {
+    "name": "Belo Horizonte Tancredo Neves",
+    "country": "Brazil",
+    "code": "CNF"
+  },
+  {
+    "name": "Belem Val de Cans International",
+    "country": "Brazil",
+    "code": "BEL"
+  },
+  {
+    "name": "Florianopolis Hercilio Luz International",
+    "country": "Brazil",
+    "code": "FLN"
+  },
+  {
+    "name": "Natal International",
+    "country": "Brazil",
+    "code": "NAT"
+  },
+  {
+    "name": "Sao Paulo Congonhas",
+    "country": "Brazil",
+    "code": "CGH"
+  },
+  {
+    "name": "Porto Alegre Salgado Filho International",
+    "country": "Brazil",
+    "code": "POA"
+  },
+  {
+    "name": "Recife Guararapes International",
+    "country": "Brazil",
+    "code": "REC"
+  },
+  {
+    "name": "Manaus Eduardo Gomes International",
+    "country": "Brazil",
+    "code": "MAO"
+  },
+  {
+    "name": "Fortaleza Pinto Martins International",
+    "country": "Brazil",
+    "code": "FOR"
+  },
+  {
+    "name": "Santarem Maestro Wilson Fonseca",
+    "country": "Brazil",
+    "code": "STM"
+  },
+  {
+    "name": "Cuiaba Marechal Rondon International",
+    "country": "Brazil",
+    "code": "CGB"
+  },
+  {
+    "name": "Campo Grande International",
+    "country": "Brazil",
+    "code": "CGR"
+  },
+  {
+    "name": "Goiania Santa Genoveva",
+    "country": "Brazil",
+    "code": "GYN"
+  },
+  {
+    "name": "Ribeirao Preto Leite Lopes",
+    "country": "Brazil",
+    "code": "RAO"
+  },
+  {
+    "name": "Santiago Arturo Merino Benitez",
+    "country": "Chile",
+    "code": "SCL"
+  },
+  {
+    "name": "Antofagasta Cerro Moreno",
+    "country": "Chile",
+    "code": "ANF"
+  },
+  {
+    "name": "Concepcion Carriel Sur",
+    "country": "Chile",
+    "code": "CCP"
+  },
+  {
+    "name": "Iquique Diego Aracena",
+    "country": "Chile",
+    "code": "IQQ"
+  },
+  {
+    "name": "La Serena La Florida",
+    "country": "Chile",
+    "code": "LSC"
+  },
+  {
+    "name": "Temuco La Araucania",
+    "country": "Chile",
+    "code": "ZCO"
+  },
+  {
+    "name": "Balmaceda",
+    "country": "Chile",
+    "code": "BBA"
+  },
+  {
+    "name": "Calama El Loa",
+    "country": "Chile",
+    "code": "CJC"
+  },
+  {
+    "name": "Bogota El Dorado International",
+    "country": "Colombia",
+    "code": "BOG"
+  },
+  {
+    "name": "Cartagena Rafael Nunez International",
+    "country": "Colombia",
+    "code": "CTG"
+  },
+  {
+    "name": "Cali Alfonso B. Aragon International",
+    "country": "Colombia",
+    "code": "CLO"
+  },
+  {
+    "name": "Medellin Jose Maria Cordova International",
+    "country": "Colombia",
+    "code": "MDE"
+  },
+  {
+    "name": "Medellin Enrique Olaya Herrera",
+    "country": "Colombia",
+    "code": "EOH"
+  },
+  {
+    "name": "Pereira Matecana International",
+    "country": "Colombia",
+    "code": "PEI"
+  },
+  {
+    "name": "Leticia Alfredo V. Cobb International",
+    "country": "Colombia",
+    "code": "LET"
+  },
+  {
+    "name": "Cucuta Camilo Daza",
+    "country": "Colombia",
+    "code": "CUC"
+  },
+  {
+    "name": "Barranquilla Ernesto Cortissoz International",
+    "country": "Colombia",
+    "code": "BAQ"
+  },
+  {
+    "name": "Bucaramanga Palonegro International",
+    "country": "Colombia",
+    "code": "BGA"
+  },
+  {
+    "name": "Riohacha Almirante Padilla",
+    "country": "Colombia",
+    "code": "RCH"
+  },
+  {
+    "name": "Quito Mariscal Sucre International",
+    "country": "Ecuador",
+    "code": "UIO"
+  },
+  {
+    "name": "Guayaquil Jose Joaquin de Olmedo",
+    "country": "Ecuador",
+    "code": "GYE"
+  },
+  {
+    "name": "San Cristobal Island San Cristobal",
+    "country": "Ecuador",
+    "code": "SCY"
+  },
+  {
+    "name": "Manta Eloy Alfaro International",
+    "country": "Ecuador",
+    "code": "MEC"
+  },
+  {
+    "name": "Baltra Island Seymour",
+    "country": "Ecuador",
+    "code": "GPS"
+  },
+  {
+    "name": "Cuenca Mariscal Lamar International",
+    "country": "Ecuador",
+    "code": "CUE"
+  },
+  {
+    "name": "Coca Francisco de Orellana",
+    "country": "Ecuador",
+    "code": "OCC"
+  },
+  {
+    "name": "Loja Catamayo",
+    "country": "Ecuador",
+    "code": "LOH"
+  },
+  {
+    "name": "Mount Pleasant RAF Station",
+    "country": "Falkland Islands",
+    "code": "MPN"
+  },
+  {
+    "name": "Cayenne Felix Eboue",
+    "country": "French Guiana",
+    "code": "CAY"
+  },
+  {
+    "name": "Asuncion Silvio Pettirossi International",
+    "country": "Paraguay",
+    "code": "ASU"
+  },
+  {
+    "name": "Ciudad del Este Guarani International",
+    "country": "Paraguay",
+    "code": "AGT"
+  },
+  {
+    "name": "Lima Jorge Chavez International",
+    "country": "Peru",
+    "code": "LIM"
+  },
+  {
+    "name": "Cusco A.Velasco Astete International",
+    "country": "Peru",
+    "code": "CUZ"
+  },
+  {
+    "name": "Arequipa Rodriguez Ballon International",
+    "country": "Peru",
+    "code": "AQP"
+  },
+  {
+    "name": "Juliaca Inco Mnco Capac International",
+    "country": "Peru",
+    "code": "JUL"
+  },
+  {
+    "name": "Iquitos F.Secada Vignetta",
+    "country": "Peru",
+    "code": "IQT"
+  },
+  {
+    "name": "Pucallpa D.Abenzur Rengifo International",
+    "country": "Peru",
+    "code": "PCL"
+  },
+  {
+    "name": "Tarapoto G.del Castillo Paredes",
+    "country": "Peru",
+    "code": "TPP"
+  },
+  {
+    "name": "Ayacucho Alfredo M. Duarte",
+    "country": "Peru",
+    "code": "AYP"
+  },
+  {
+    "name": "Cajamarca Armando R. Iglesias",
+    "country": "Peru",
+    "code": "CJA"
+  },
+  {
+    "name": "Huanuco David F. Fernandini",
+    "country": "Peru",
+    "code": "HUU"
+  },
+  {
+    "name": "Montevideo Carrasco",
+    "country": "Uruguay",
+    "code": "MVD"
+  },
+  {
+    "name": "Punta del Este Carlos A. Curbelo International",
+    "country": "Uruguay",
+    "code": "PDP"
+  },
+  {
+    "name": "Caracas Simon Bolivar International",
+    "country": "Venezuela",
+    "code": "CCS"
+  },
+  {
+    "name": "Barcelona J.A. Anzoategui International",
+    "country": "Venezuela",
+    "code": "BLA"
+  },
+  {
+    "name": "Maracaibo La Chinita International",
+    "country": "Venezuela",
+    "code": "MAR"
+  },
+  {
+    "name": "Valencia Arturo Michelena International",
+    "country": "Venezuela",
+    "code": "VLN"
+  },
+  {
+    "name": "Barquisimeto Jacinto Lara International",
+    "country": "Venezuela",
+    "code": "BRM"
+  },
+  {
+    "name": "Beijing Capital International",
+    "country": "China",
+    "code": "PEK"
+  },
+  {
+    "name": "Beijing Daxing International",
+    "country": "China",
+    "code": "PKX"
+  },
+  {
+    "name": "Shanghai Pudong International",
+    "country": "China",
+    "code": "PVG"
+  },
+  {
+    "name": "Shanghai Hongqiao International",
+    "country": "China",
+    "code": "SHA"
+  },
+  {
+    "name": "Guangzhou Baiyun International",
+    "country": "China",
+    "code": "CAN"
+  },
+  {
+    "name": "Xiamen Gaoqi International",
+    "country": "China",
+    "code": "XMN"
+  },
+  {
+    "name": "Hangzhou Xiaoshan International",
+    "country": "China",
+    "code": "HGH"
+  },
+  {
+    "name": "Chongqing Jiangbei International",
+    "country": "China",
+    "code": "CKG"
+  },
+  {
+    "name": "Chengdu Tianfu International",
+    "country": "China",
+    "code": "TFU"
+  },
+  {
+    "name": "Chengdu Shuangliu International",
+    "country": "China",
+    "code": "CTU"
+  },
+  {
+    "name": "Kunming Changshui International",
+    "country": "China",
+    "code": "KMG"
+  },
+  {
+    "name": "Nanjing Lukou International",
+    "country": "China",
+    "code": "NKG"
+  },
+  {
+    "name": "Changsha Huanghua International",
+    "country": "China",
+    "code": "CSX"
+  },
+
+  {
+    "name": "Shenzhen Bao'an International",
+    "country": "China",
+    "code": "SZX"
+  },
+  {
+    "name": "Shenzhen Shekou Ferry Port",
+    "country": "China",
+    "code": "ZYK"
+  },
+  {
+    "name": "Wuhan Tianhe International",
+    "country": "China",
+    "code": "WUH"
+  },
+  {
+    "name": "Shenyang Taoxian International",
+    "country": "China",
+    "code": "SHE"
+  },
+  {
+    "name": "Ningbo Lishe International",
+    "country": "China",
+    "code": "NGB"
+  },
+  {
+    "name": "Harbin Taiping International",
+    "country": "China",
+    "code": "HRB"
+  },
+  {
+    "name": "Tianjin Binhai International",
+    "country": "China",
+    "code": "TSN"
+  },
+  {
+    "name": "Guilin Liangjiang International",
+    "country": "China",
+    "code": "KWL"
+  },
+  {
+    "name": "Fuzhou Changle International",
+    "country": "China",
+    "code": "FOC"
+  },
+  {
+    "name": "Urumqi Diwopu International",
+    "country": "China",
+    "code": "URC"
+  },
+  {
+    "name": "Dalian Zhoushuizi International",
+    "country": "China",
+    "code": "DLC"
+  },
+  {
+    "name": "Nanning Wuxu International",
+    "country": "China",
+    "code": "NNG"
+  },
+  {
+    "name": "Sanya Phoenix International",
+    "country": "China",
+    "code": "SYX"
+  },
+  {
+    "name": "Guiyang Longdongbao International",
+    "country": "China",
+    "code": "KWE"
+  },
+  {
+    "name": "Zhengzhou Xinzheng International",
+    "country": "China",
+    "code": "CGO"
+  },
+  {
+    "name": "Haikou Meilan International",
+    "country": "China",
+    "code": "HAK"
+  },
+  {
+    "name": "Jinan Yaoqiang International",
+    "country": "China",
+    "code": "TNA"
+  },
+  {
+    "name": "Taiyuan Wusu International",
+    "country": "China",
+    "code": "TYN"
+  },
+  {
+    "name": "Wenzhou Yongqiang International",
+    "country": "China",
+    "code": "WNZ"
+  },
+  {
+    "name": "Port Blair Veer Savarkar International",
+    "country": "India",
+    "code": "IXZ"
+  },
+  {
+    "name": "Vishakhapatnam",
+    "country": "India",
+    "code": "VTZ"
+  },
+  {
+    "name": "Guwahati Gopinath Bordoloi International",
+    "country": "India",
+    "code": "GAU"
+  },
+  {
+    "name": "Vijayawada",
+    "country": "India",
+    "code": "VGA"
+  },
+  {
+    "name": "Tirupati",
+    "country": "India",
+    "code": "TIR"
+  },
+  {
+    "name": "Gaya",
+    "country": "India",
+    "code": "GAY"
+  },
+  {
+    "name": "Bihar Darbhanga",
+    "country": "India",
+    "code": "DBR"
+  },
+  {
+    "name": "Chandigarh",
+    "country": "India",
+    "code": "IXC"
+  },
+  {
+    "name": "Delhi Indira Gandhi International",
+    "country": "India",
+    "code": "DEL"
+  },
+  {
+    "name": "Goa Dabolim",
+    "country": "India",
+    "code": "GOI"
+  },
+  {
+    "name": "Goa Mopa Airport",
+    "country": "India",
+    "code": "GOX"
+  },
+  {
+    "name": "Surat",
+    "country": "India",
+    "code": "STV"
+  },
+  {
+    "name": "Jammu Satwari",
+    "country": "India",
+    "code": "IXJ"
+  },
+  {
+    "name": "Jharsuguda Veer Surendra Sai",
+    "country": "India",
+    "code": "JRG"
+  },
+  {
+    "name": "Deoghar International",
+    "country": "India",
+    "code": "DGH"
+  },
+  {
+    "name": "Mangalore",
+    "country": "India",
+    "code": "IXE"
+  },
+  {
+    "name": "Kannur International",
+    "country": "India",
+    "code": "CNN"
+  },
+  {
+    "name": "Varanasi Lal Bahadur Shastri",
+    "country": "India",
+    "code": "VNS"
+  },
+  {
+    "name": "Pune Lohegaon",
+    "country": "India",
+    "code": "PNQ"
+  },
+  {
+    "name": "Patna Jayaprakash Narayan",
+    "country": "India",
+    "code": "PAT"
+  },
+  {
+    "name": "Srinagar Sheikh ul Alam",
+    "country": "India",
+    "code": "SXR"
+  },
+  {
+    "name": "Jaipur International",
+    "country": "India",
+    "code": "JAI"
+  },
+  {
+    "name": "Chennai International",
+    "country": "India",
+    "code": "MAA"
+  },
+  {
+    "name": "Coimbatore International",
+    "country": "India",
+    "code": "CJB"
+  },
+  {
+    "name": "Madurai",
+    "country": "India",
+    "code": "IXM"
+  },
+  {
+    "name": "Tiruchchirappalli",
+    "country": "India",
+    "code": "TRZ"
+  },
+  {
+    "name": "Hyderabad Rajiv Gandhi International",
+    "country": "India",
+    "code": "HYD"
+  },
+  {
+    "name": "Agartala",
+    "country": "India",
+    "code": "IXA"
+  },
+  {
+    "name": "Lucknow Chaudhary Charan Singh",
+    "country": "India",
+    "code": "LKO"
+  },
+  {
+    "name": "Varanasi Lal Bahadur Shastri",
+    "country": "India",
+    "code": "VNS"
+  },
+  {
+    "name": "Bagdogra",
+    "country": "India",
+    "code": "IXB"
+  },
+  {
+    "name": "Kolkata Subhas Chandra Bose",
+    "country": "India",
+    "code": "CCU"
+  },
+  {
+    "name": "Jakarta Soekarno-Hatta International",
+    "country": "Indonesia",
+    "code": "CGK"
+  },
+  {
+    "name": "Denpasar-Bali Ngurah Rai",
+    "country": "Indonesia",
+    "code": "DPS"
+  },
+  {
+    "name": "Surabaya Juanda",
+    "country": "Indonesia",
+    "code": "SUB"
+  },
+  {
+    "name": "Makassar Sultan Hasanuddin",
+    "country": "Indonesia",
+    "code": "UPG"
+  },
+  {
+    "name": "Jayapura Sentani",
+    "country": "Indonesia",
+    "code": "DJJ"
+  },
+  {
+    "name": "Sorong Domine Eduard Osok",
+    "country": "Indonesia",
+    "code": "SOQ"
+  },
+  {
+    "name": "Pekanbaru Sultan Syarif Kasim II",
+    "country": "Indonesia",
+    "code": "PKU"
+  },
+  {
+    "name": "Bandung Husein Sastranegara",
+    "country": "Indonesia",
+    "code": "BDO"
+  },
+  {
+    "name": "Palembang S M Badaruddin II",
+    "country": "Indonesia",
+    "code": "PLM"
+  },
+  {
+    "name": "Praya Lombok International",
+    "country": "Indonesia",
+    "code": "LOP"
+  },
+  {
+    "name": "Manado Sam Ratulangi",
+    "country": "Indonesia",
+    "code": "MDC"
+  },
+  {
+    "name": "Batam Hang Nadim",
+    "country": "Indonesia",
+    "code": "BTH"
+  },
+  {
+    "name": "Ambon Pattimura",
+    "country": "Indonesia",
+    "code": "AMQ"
+  },
+  {
+    "name": "Tarakan Juwata",
+    "country": "Indonesia",
+    "code": "TRK"
+  },
+  {
+    "name": "Palu Mutiara",
+    "country": "Indonesia",
+    "code": "PLW"
+  },
+  {
+    "name": "Manokwari Rendani",
+    "country": "Indonesia",
+    "code": "MKW"
+  },
+  {
+    "name": "Tembagapura/Timika Moses Kilangin",
+    "country": "Indonesia",
+    "code": "TIM"
+  },
+  {
+    "name": "Nabire",
+    "country": "Indonesia",
+    "code": "NBX"
+  },
+  {
+    "name": "Karachi Jinnah International",
+    "country": "Pakistan",
+    "code": "KHI"
+  },
+  {
+    "name": "Lahore Allama Iqbal International",
+    "country": "Pakistan",
+    "code": "LHE"
+  },
+  {
+    "name": "Peshawar Bacha Khan International",
+    "country": "Pakistan",
+    "code": "PEW"
+  },
+  {
+    "name": "Sialkot International",
+    "country": "Pakistan",
+    "code": "SKT"
+  },
+  {
+    "name": "Multan International",
+    "country": "Pakistan",
+    "code": "MUX"
+  },
+  {
+    "name": "Quetta International",
+    "country": "Pakistan",
+    "code": "UET"
+  },
+  {
+    "name": "Sukkur",
+    "country": "Pakistan",
+    "code": "SKZ"
+  },
+  {
+    "name": "Turbat International",
+    "country": "Pakistan",
+    "code": "TUK"
+  },
+  {
+    "name": "Dhaka Hazrat Shahjalal International",
+    "country": "Bangladesh",
+    "code": "DAC"
+  },
+  {
+    "name": "Chittagong Shah Amanat International",
+    "country": "Bangladesh",
+    "code": "CGP"
+  },
+  {
+    "name": "Saidpur",
+    "country": "Bangladesh",
+    "code": "SPD"
+  },
+  {
+    "name": "Tokyo Narita International",
+    "country": "Japan",
+    "code": "NRT"
+  },
+  {
+    "name": "Osaka Kansai International",
+    "country": "Japan",
+    "code": "KIX"
+  },
+  {
+    "name": "Fukuoka",
+    "country": "Japan",
+    "code": "FUK"
+  },
+  {
+    "name": "Tokyo International (Haneda)",
+    "country": "Japan",
+    "code": "HND"
+  },
+  {
+    "name": "Sapporo New Chitose",
+    "country": "Japan",
+    "code": "CTS"
+  },
+  {
+    "name": "Okinawa Naha",
+    "country": "Japan",
+    "code": "OKA"
+  },
+  {
+    "name": "Kagoshima",
+    "country": "Japan",
+    "code": "KOJ"
+  },
+  {
+    "name": "Shizuoka Mount Fuji",
+    "country": "Japan",
+    "code": "FSZ"
+  },
+  {
+    "name": "Osaka International (Itami)",
+    "country": "Japan",
+    "code": "ITM"
+  },
+  {
+    "name": "Sendai",
+    "country": "Japan",
+    "code": "SDJ"
+  },
+  {
+    "name": "Okayama",
+    "country": "Japan",
+    "code": "OKJ"
+  },
+  {
+    "name": "Komatsu",
+    "country": "Japan",
+    "code": "KMQ"
+  },
+  {
+    "name": "Hiroshima Airport",
+    "country": "Japan",
+    "code": "HIJ"
+  },
+  {
+    "name": "Nagasaki Airport",
+    "country": "Japan",
+    "code": "NGS"
+  },
+  {
+    "name": "Niigata",
+    "country": "Japan",
+    "code": "KIJ"
+  },
+  {
+    "name": "Matsuyama",
+    "country": "Japan",
+    "code": "MYJ"
+  },
+  {
+    "name": "Miyazaki",
+    "country": "Japan",
+    "code": "KMI"
+  },
+  {
+    "name": "Manila Ninoy Aquino International",
+    "country": "Philippines",
+    "code": "MNL"
+  },
+  {
+    "name": "Cebu Mactan International",
+    "country": "Philippines",
+    "code": "CEB"
+  },
+  {
+    "name": "Angeles/Mabalacat Clark International",
+    "country": "Philippines",
+    "code": "CRK"
+  },
+  {
+    "name": "Davao Francisco Bangoy International",
+    "country": "Philippines",
+    "code": "DVO"
+  },
+  {
+    "name": "Kalibo International",
+    "country": "Philippines",
+    "code": "KLO"
+  },
+  {
+    "name": "Puerto Princesa International",
+    "country": "Philippines",
+    "code": "PPS"
+  },
+  {
+    "name": "Iloilo International",
+    "country": "Philippines",
+    "code": "ILO"
+  },
+  {
+    "name": "Hanoi Noi Bai International",
+    "country": "Viet Nam",
+    "code": "HAN"
+  },
+  {
+    "name": "Ho Chi Minh City Tan Son Nhat International",
+    "country": "Viet Nam",
+    "code": "SGN"
+  },
+  {
+    "name": "Da Nang International",
+    "country": "Viet Nam",
+    "code": "DAD"
+  },
+  {
+    "name": "Nha Trang Cam Ranh International",
+    "country": "Viet Nam",
+    "code": "CXR"
+  },
+  {
+    "name": "Phu Quoc Island International",
+    "country": "Viet Nam",
+    "code": "PQC"
+  },
+  {
+    "name": "Haiphong Cat Bi International",
+    "country": "Viet Nam",
+    "code": "HPH"
+  },
+  {
+    "name": "Vinh",
+    "country": "Viet Nam",
+    "code": "VII"
+  },
+  {
+    "name": "Hue Phu Bai International",
+    "country": "Viet Nam",
+    "code": "HUI"
+  },
+  {
+    "name": "Da Lat Lien Khuong",
+    "country": "Viet Nam",
+    "code": "DLI"
+  },
+  {
+    "name": "Buon Ma Thuot",
+    "country": "Viet Nam",
+    "code": "BMV"
+  },
+  {
+    "name": "Qui Nhon Phu Cat",
+    "country": "Viet Nam",
+    "code": "UIH"
+  },
+  {
+    "name": "Thanh Hoa Tho Xuan",
+    "country": "Viet Nam",
+    "code": "THD"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "code": "IST"
+  },
+  {
+    "name": "Istanbul Sabiha Gokcen",
+    "country": "Turkey",
+    "code": "SAW"
+  },
+  {
+    "name": "Antalya",
+    "country": "Turkey",
+    "code": "AYT"
+  },
+  {
+    "name": "Dalaman",
+    "country": "Turkey",
+    "code": "DLM"
+  },
+  {
+    "name": "Izmir Adnan Menderes",
+    "country": "Turkey",
+    "code": "ADB"
+  },
+  {
+    "name": "Ankara Esenboga",
+    "country": "Turkey",
+    "code": "ESB"
+  },
+  {
+    "name": "Bodrum Milas",
+    "country": "Turkey",
+    "code": "BJV"
+  },
+  {
+    "name": "Adana Sakirpasa",
+    "country": "Turkey",
+    "code": "ADA"
+  },
+  {
+    "name": "Gaziantep Oguzeli",
+    "country": "Turkey",
+    "code": "GZT"
+  },
+  {
+    "name": "Trabzon",
+    "country": "Turkey",
+    "code": "TZX"
+  },
+  {
+    "name": "Erzurum",
+    "country": "Turkey",
+    "code": "ERZ"
+  },
+  {
+    "name": "Gazipasa Alanya",
+    "country": "Turkey",
+    "code": "GZP"
+  },
+  {
+    "name": "Diyarbakir",
+    "country": "Turkey",
+    "code": "DIY"
+  },
+  {
+    "name": "Malatya Erhac",
+    "country": "Turkey",
+    "code": "MLX"
+  },
+  {
+    "name": "Kayseri Erkilet",
+    "country": "Turkey",
+    "code": "ASR"
+  },
+  {
+    "name": "Elazig",
+    "country": "Turkey",
+    "code": "EZS"
+  },
+  {
+    "name": "Sanliurfa Guney Anadolu Projesi",
+    "country": "Turkey",
+    "code": "GNY"
+  },
+  {
+    "name": "Hatay",
+    "country": "Turkey",
+    "code": "HTY"
+  },
+  {
+    "name": "Konya",
+    "country": "Turkey",
+    "code": "KYA"
+  },
+  {
+    "name": "Denizli Cardak",
+    "country": "Turkey",
+    "code": "DNZ"
+  },
+  {
+    "name": "Erzincan",
+    "country": "Turkey",
+    "code": "ERC"
+  },
+  {
+    "name": "Van Ferit Melen",
+    "country": "Turkey",
+    "code": "VAN"
+  },
+  {
+    "name": "Batman",
+    "country": "Turkey",
+    "code": "BAL"
+  },
+  {
+    "name": "Mus",
+    "country": "Turkey",
+    "code": "MSR"
+  },
+  {
+    "name": "Kahramanmaras",
+    "country": "Turkey",
+    "code": "KCM"
+  },
+  {
+    "name": "Mardin",
+    "country": "Turkey",
+    "code": "MQM"
+  },
+  {
+    "name": "Igdir",
+    "country": "Turkey",
+    "code": "IGD"
+  },
+  {
+    "name": "Canakkale",
+    "country": "Turkey",
+    "code": "CKZ"
+  },
+  {
+    "name": "Tehran Imam Khomeini International",
+    "country": "Iran",
+    "code": "IKA"
+  },
+  {
+    "name": "Mashhad Shahid Hashemi Nejad",
+    "country": "Iran",
+    "code": "MHD"
+  },
+  {
+    "name": "Shiraz Shahid Dastghaib International",
+    "country": "Iran",
+    "code": "SYZ"
+  },
+  {
+    "name": "Tabriz International",
+    "country": "Iran",
+    "code": "TBZ"
+  },
+  {
+    "name": "Tehran Mehrabad International",
+    "country": "Iran",
+    "code": "THR"
+  },
+  {
+    "name": "Esfahan Shahid Beheshti International",
+    "country": "Iran",
+    "code": "IFN"
+  },
+  {
+    "name": "Ahwaz",
+    "country": "Iran",
+    "code": "AWZ"
+  },
+  {
+    "name": "Kish Island",
+    "country": "Iran",
+    "code": "KIH"
+  },
+  {
+    "name": "Bandar Abbas International",
+    "country": "Iran",
+    "code": "BND"
+  },
+  {
+    "name": "Rasht Sandra-e-Jangal",
+    "country": "Iran",
+    "code": "RAS"
+  },
+  {
+    "name": "Bangkok Suvarnabhumi International",
+    "country": "Thailand",
+    "code": "BKK"
+  },
+  {
+    "name": "Phuket International",
+    "country": "Thailand",
+    "code": "HKT"
+  },
+  {
+    "name": "Chiang Mai International",
+    "country": "Thailand",
+    "code": "CNX"
+  },
+  {
+    "name": "Bangkok Don Mueang International",
+    "country": "Thailand",
+    "code": "DMK"
+  },
+  {
+    "name": "Krabi",
+    "country": "Thailand",
+    "code": "KBV"
+  },
+  {
+    "name": "Chiang Rai Mae Fah Luang International",
+    "country": "Thailand",
+    "code": "CEI"
+  },
+  {
+    "name": "Ko Samui",
+    "country": "Thailand",
+    "code": "USM"
+  },
+  {
+    "name": "Hat Yai International",
+    "country": "Thailand",
+    "code": "HDY"
+  },
+  {
+    "name": "Udon Thani International",
+    "country": "Thailand",
+    "code": "UTH"
+  },
+  {
+    "name": "Yangon International",
+    "country": "Myanmar",
+    "code": "RGN"
+  },
+  {
+    "name": "Mandalay International",
+    "country": "Myanmar",
+    "code": "MDL"
+  },
+  {
+    "name": "Heho",
+    "country": "Myanmar",
+    "code": "HEH"
+  },
+  {
+    "name": "Tachilek",
+    "country": "Myanmar",
+    "code": "THL"
+  },
+  {
+    "name": "Myitkyina",
+    "country": "Myanmar",
+    "code": "MYT"
+  },
+  {
+    "name": "Seoul Incheon International",
+    "country": "South Korea",
+    "code": "ICN"
+  },
+  {
+    "name": "Busan Gimhae International",
+    "country": "South Korea",
+    "code": "PUS"
+  },
+  {
+    "name": "Jeju International",
+    "country": "South Korea",
+    "code": "CJU"
+  },
+  {
+    "name": "Seoul Gimpo International",
+    "country": "South Korea",
+    "code": "GMP"
+  },
+  {
+    "name": "Cheongju International",
+    "country": "South Korea",
+    "code": "CJJ"
+  },
+  {
+    "name": "Muan International",
+    "country": "South Korea",
+    "code": "MWX"
+  },
+  {
+    "name": "Erbil International",
+    "country": "Iraq",
+    "code": "EBL"
+  },
+  {
+    "name": "Baghdad International",
+    "country": "Iraq",
+    "code": "BGW"
+  },
+  {
+    "name": "Basrah International",
+    "country": "Iraq",
+    "code": "BSR"
+  },
+  {
+    "name": "Sulaymaniyah International",
+    "country": "Iraq",
+    "code": "ISU"
+  },
+  {
+    "name": "Al Najaf Al-Ashraf International",
+    "country": "Iraq",
+    "code": "NJF"
+  },
+  {
+    "name": "Kabul International",
+    "country": "Afghanistan",
+    "code": "KBL"
+  },
+  {
+    "name": "Herat",
+    "country": "Afghanistan",
+    "code": "HEA"
+  },
+  {
+    "name": "Mazar-e Sharif",
+    "country": "Afghanistan",
+    "code": "MZR"
+  },
+  {
+    "name": "Jeddah King Abdulaziz International",
+    "country": "Saudi Arabia",
+    "code": "JED"
+  },
+  {
+    "name": "Riyadh King Khalid International",
+    "country": "Saudi Arabia",
+    "code": "RUH"
+  },
+  {
+    "name": "Dammam King Fahd International",
+    "country": "Saudi Arabia",
+    "code": "DMM"
+  },
+  {
+    "name": "Madinah Mohammad Bin Abdulaziz",
+    "country": "Saudi Arabia",
+    "code": "MED"
+  },
+  {
+    "name": "Gassim",
+    "country": "Saudi Arabia",
+    "code": "ELQ"
+  },
+  {
+    "name": "Taif",
+    "country": "Saudi Arabia",
+    "code": "TIF"
+  },
+  {
+    "name": "Yanbu al Bahr",
+    "country": "Saudi Arabia",
+    "code": "YNB"
+  },
+  {
+    "name": "Abha",
+    "country": "Saudi Arabia",
+    "code": "AHB"
+  },
+  {
+    "name": "Tabuk",
+    "country": "Saudi Arabia",
+    "code": "TUU"
+  },
+  {
+    "name": "Hail",
+    "country": "Saudi Arabia",
+    "code": "HAS"
+  },
+  {
+    "name": "Tashkent International",
+    "country": "Uzbekistan",
+    "code": "TAS"
+  },
+  {
+    "name": "Bukhara International",
+    "country": "Uzbekistan",
+    "code": "BHK"
+  },
+  {
+    "name": "Samarkand International",
+    "country": "Uzbekistan",
+    "code": "SKD"
+  },
+  {
+    "name": "Urgench International",
+    "country": "Uzbekistan",
+    "code": "UGC"
+  },
+  {
+    "name": "Fergana International",
+    "country": "Uzbekistan",
+    "code": "FEG"
+  },
+  {
+    "name": "Namangan",
+    "country": "Uzbekistan",
+    "code": "NMA"
+  },
+  {
+    "name": "Kuala Lumpur International",
+    "country": "Malaysia",
+    "code": "KUL"
+  },
+  {
+    "name": "Penang International",
+    "country": "Malaysia",
+    "code": "PEN"
+  },
+  {
+    "name": "Kuching International",
+    "country": "Malaysia",
+    "code": "KCH"
+  },
+  {
+    "name": "Johor Bahru Senai International",
+    "country": "Malaysia",
+    "code": "JHB"
+  },
+  {
+    "name": "Miri",
+    "country": "Malaysia",
+    "code": "MYY"
+  },
+  {
+    "name": "Kota Bharu Sultan Ismail Petra",
+    "country": "Malaysia",
+    "code": "KBR"
+  },
+  {
+    "name": "Kuala Lumpur Sultan Abdul Aziz Shah",
+    "country": "Malaysia",
+    "code": "SZB"
+  },
+  {
+    "name": "Sana'a International",
+    "country": "Yemen",
+    "code": "SAH"
+  },
+  {
+    "name": "Aden International",
+    "country": "Yemen",
+    "code": "ADE"
+  },
+  {
+    "name": "Mukalla Riyan",
+    "country": "Yemen",
+    "code": "RIY"
+  },
+  {
+    "name": "Socotra",
+    "country": "Yemen",
+    "code": "SCT"
+  },
+  {
+    "name": "Sayun",
+    "country": "Yemen",
+    "code": "GXF"
+  },
+  {
+    "name": "Kathmandu Tribhuvan International",
+    "country": "Nepal",
+    "code": "KTM"
+  },
+  {
+    "name": "Colombo Bandaranaike International",
+    "country": "Sri Lanka",
+    "code": "CMB"
+  },
+  {
+    "name": "Hambantota Mattala Rajapaksa International",
+    "country": "Sri Lanka",
+    "code": "HRI"
+  },
+  {
+    "name": "Aleppo International",
+    "country": "Syria",
+    "code": "ALP"
+  },
+  {
+    "name": "Damascus International",
+    "country": "Syria",
+    "code": "DAM"
+  },
+  {
+    "name": "Almaty International",
+    "country": "Kazakhstan",
+    "code": "ALA"
+  },
+  {
+    "name": "Astana Nursultan Nazarbayev",
+    "country": "Kazakhstan",
+    "code": "NQZ"
+  },
+  {
+    "name": "Karaganda Sary-Arka",
+    "country": "Kazakhstan",
+    "code": "KGF"
+  },
+  {
+    "name": "Shymkent International",
+    "country": "Kazakhstan",
+    "code": "CIT"
+  },
+  {
+    "name": "Aktau",
+    "country": "Kazakhstan",
+    "code": "SCO"
+  },
+  {
+    "name": "Atyrau",
+    "country": "Kazakhstan",
+    "code": "GUW"
+  },
+  {
+    "name": "Ust-Kamenogorsk",
+    "country": "Kazakhstan",
+    "code": "UKK"
+  },
+  {
+    "name": "Siem Reap Angkor International",
+    "country": "Cambodia",
+    "code": "REP"
+  },
+  {
+    "name": "Phnom Penh International",
+    "country": "Cambodia",
+    "code": "PNH"
+  },
+  {
+    "name": "Sihanoukville International",
+    "country": "Cambodia",
+    "code": "KOS"
+  },
+  {
+    "name": "Amman Queen Alia International",
+    "country": "Jordan",
+    "code": "AMM"
+  },
+  {
+    "name": "Aqaba King Hussein International",
+    "country": "Jordan",
+    "code": "AQJ"
+  },
+  {
+    "name": "Baku Heydar Aliyev International",
+    "country": "Azerbaijan",
+    "code": "GYD"
+  },
+  {
+    "name": "Ganja",
+    "country": "Azerbaijan",
+    "code": "GNJ"
+  },
+  {
+    "name": "Nakchivan",
+    "country": "Azerbaijan",
+    "code": "NAJ"
+  },
+  {
+    "name": "Lankaran",
+    "country": "Azerbaijan",
+    "code": "LLK"
+  },
+  {
+    "name": "Dubai International",
+    "country": "United Arab Emirates",
+    "code": "DXB"
+  },
+  {
+    "name": "Abu Dhabi International",
+    "country": "United Arab Emirates",
+    "code": "AUH"
+  },
+  {
+    "name": "Sharjah",
+    "country": "United Arab Emirates",
+    "code": "SHJ"
+  },
+  {
+    "name": "Dubai Al Maktoum International",
+    "country": "United Arab Emirates",
+    "code": "DWC"
+  },
+  {
+    "name": "Dushanbe International",
+    "country": "Tajikistan",
+    "code": "DYU"
+  },
+  {
+    "name": "Khujand International",
+    "country": "Tajikistan",
+    "code": "LBD"
+  },
+  {
+    "name": "Kulob",
+    "country": "Tajikistan",
+    "code": "TJU"
+  },
+  {
+    "name": "Qurghonteppa International",
+    "country": "Tajikistan",
+    "code": "KQT"
+  },
+  {
+    "name": "Tel Aviv-Yafo Ben Gurion International",
+    "country": "Israel",
+    "code": "TLV"
+  },
+  {
+    "name": "Vientiane Wattay International",
+    "country": "Laos",
+    "code": "VTE"
+  },
+  {
+    "name": "Luang Prabang International",
+    "country": "Laos",
+    "code": "LPQ"
+  },
+  {
+    "name": "Pakse International",
+    "country": "Laos",
+    "code": "PKZ"
+  },
+  {
+    "name": "Beirut Rafic Hariri International",
+    "country": "Lebanon",
+    "code": "BEY"
+  },
+  {
+    "name": "Bishkek Manas International",
+    "country": "Kyrgyzstan",
+    "code": "FRU"
+  },
+  {
+    "name": "Osh",
+    "country": "Kyrgyzstan",
+    "code": "OSS"
+  },
+  {
+    "name": "Ashgabat International",
+    "country": "Turkmenistan",
+    "code": "ASB"
+  },
+  {
+    "name": "Turkmenbashi",
+    "country": "Turkmenistan",
+    "code": "KRW"
+  },
+  {
+    "name": "Singapore Changi",
+    "country": "Singapore",
+    "code": "SIN"
+  },
+  {
+    "name": "Singapore Seletar",
+    "country": "Singapore",
+    "code": "XSP"
+  },
+  {
+    "name": "Muscat International",
+    "country": "Oman",
+    "code": "MCT"
+  },
+  {
+    "name": "Duqm International",
+    "country": "Oman",
+    "code": "DQM"
+  },
+  {
+    "name": "Salalah",
+    "country": "Oman",
+    "code": "SLL"
+  },
+  {
+    "name": "Kuwait International",
+    "country": "Kuwait",
+    "code": "KWI"
+  },
+  {
+    "name": "Tbilisi International",
+    "country": "Georgia",
+    "code": "TBS"
+  },
+  {
+    "name": "Batumi",
+    "country": "Georgia",
+    "code": "BUS"
+  },
+  {
+    "name": "Kutaisi International",
+    "country": "Georgia",
+    "code": "KUT"
+  },
+  {
+    "name": "Moron",
+    "country": "Mongolia",
+    "code": "MXV"
+  },
+  {
+    "name": "Altai",
+    "country": "Mongolia",
+    "code": "LTI"
+  },
+  {
+    "name": "Yerevan Zvartnots International",
+    "country": "Armenia",
+    "code": "EVN"
+  },
+  {
+    "name": "Doha Hamad International",
+    "country": "Qatar",
+    "code": "DOH"
+  },
+  {
+    "name": "Bahrain International",
+    "country": "Bahrain",
+    "code": "BAH"
+  },
+  {
+    "name": "Dili Pres. Nicolau Lobato",
+    "country": "Timor Leste",
+    "code": "DIL"
+  },
+  {
+    "name": "Larnaca",
+    "country": "Cyprus",
+    "code": "LCA"
+  },
+  {
+    "name": "Paphos International",
+    "country": "Cyprus",
+    "code": "PFO"
+  },
+  {
+    "name": "Ercan",
+    "country": "Cyprus",
+    "code": "ECN"
+  },
+  {
+    "name": "Paro International",
+    "country": "Bhutan",
+    "code": "PBH"
+  },
+  {
+    "name": "Male Velana International",
+    "country": "Maldives",
+    "code": "MLE"
+  },
+  {
+    "name": "Gan Island International",
+    "country": "Maldives",
+    "code": "GAN"
+  },
+  {
+    "name": "Bandar Seri Begawan Brunei",
+    "country": "Brunei Darussalam",
+    "code": "BWN"
+  },
+  {
+    "name": "Taipei Taiwan Taoyuan International",
+    "country": "Taiwan",
+    "code": "TPE"
+  },
+  {
+    "name": "Kinmen Shangyi",
+    "country": "Taiwan",
+    "code": "KNH"
+  },
+  {
+    "name": "Taipei Songshan",
+    "country": "Taiwan",
+    "code": "TSA"
+  },
+  {
+    "name": "Taichung Cingcyuangang",
+    "country": "Taiwan",
+    "code": "RMQ"
+  },
+  {
+    "name": "Hualien",
+    "country": "Taiwan",
+    "code": "HUN"
+  },
+  {
+    "name": "Hong Kong International",
+    "country": "Hong Kong",
+    "code": "HKG"
+  },
+  {
+    "name": "Macau International",
+    "country": "Macao",
+    "code": "MFM"
+  },
+  {
+    "name": "Lagos Murtala Muhammed International",
+    "country": "Nigeria",
+    "code": "LOS"
+  },
+  {
+    "name": "Abuja Nnamdi Azikiwe International",
+    "country": "Nigeria",
+    "code": "ABV"
+  },
+  {
+    "name": "Mallam Aminu Kano International",
+    "country": "Nigeria",
+    "code": "KAN"
+  },
+  {
+    "name": "Addis Ababa Bole International",
+    "country": "Ethiopia",
+    "code": "ADD"
+  },
+  {
+    "name": "Cairo International",
+    "country": "Egypt",
+    "code": "CAI"
+  },
+  {
+    "name": "Hurghada International",
+    "country": "Egypt",
+    "code": "HRG"
+  },
+  {
+    "name": "Luxor International",
+    "country": "Egypt",
+    "code": "LXR"
+  },
+  {
+    "name": "Alexandria Borg el Arab",
+    "country": "Egypt",
+    "code": "HBE"
+  },
+  {
+    "name": "Sharm el-Sheikh International",
+    "country": "Egypt",
+    "code": "SSH"
+  },
+  {
+    "name": "Kinshasa N'djili International",
+    "country": "Congo (Zaire)",
+    "code": "FIH"
+  },
+  {
+    "name": "Lubumbashi Luano International",
+    "country": "Congo (Zaire)",
+    "code": "FBM"
+  },
+  {
+    "name": "Dar es Salaam Julius Nyerere International",
+    "country": "Tanzania",
+    "code": "DAR"
+  },
+  {
+    "name": "Zanzibar International",
+    "country": "Tanzania",
+    "code": "ZNZ"
+  },
+  {
+    "name": "Kilimanjaro International",
+    "country": "Tanzania",
+    "code": "JRO"
+  },
+  {
+    "name": "Mwanza",
+    "country": "Tanzania",
+    "code": "MWZ"
+  },
+  {
+    "name": "Johannesburg O.R. Tambo International",
+    "country": "South Africa",
+    "code": "JNB"
+  },
+  {
+    "name": "Cape Town International",
+    "country": "South Africa",
+    "code": "CPT"
+  },
+  {
+    "name": "Durban King Shaka International",
+    "country": "South Africa",
+    "code": "DUR"
+  },
+  {
+    "name": "George",
+    "country": "South Africa",
+    "code": "GRJ"
+  },
+  {
+    "name": "Nairobi Jomo Kenyatta International",
+    "country": "Kenya",
+    "code": "NBO"
+  },
+  {
+    "name": "Mombasa Moi International",
+    "country": "Kenya",
+    "code": "MBA"
+  },
+  {
+    "name": "Nairobi Wilson",
+    "country": "Kenya",
+    "code": "WIL"
+  },
+  {
+    "name": "Entebbe International",
+    "country": "Uganda",
+    "code": "EBB"
+  },
+  {
+    "name": "Algiers Houari Boumediene",
+    "country": "Algeria",
+    "code": "ALG"
+  },
+  {
+    "name": "Oran Ahmed Ben Bella",
+    "country": "Algeria",
+    "code": "ORN"
+  },
+  {
+    "name": "Annaba Rabah Bitat",
+    "country": "Algeria",
+    "code": "AAE"
+  },
+  {
+    "name": "Constantine Mohamed Boudiaf",
+    "country": "Algeria",
+    "code": "CZL"
+  },
+  {
+    "name": "Khartoum International",
+    "country": "Sudan",
+    "code": "KRT"
+  },
+  {
+    "name": "Port Sudan New International",
+    "country": "Sudan",
+    "code": "PZU"
+  },
+  {
+    "name": "Casablanca Mohammed V",
+    "country": "Morocco",
+    "code": "CMN"
+  },
+  {
+    "name": "Marrakech Menara",
+    "country": "Morocco",
+    "code": "RAK"
+  },
+  {
+    "name": "Agadir Al Massira",
+    "country": "Morocco",
+    "code": "AGA"
+  },
+  {
+    "name": "Nador El Aroui",
+    "country": "Morocco",
+    "code": "NDR"
+  },
+  {
+    "name": "Tangier Ibn Batouta",
+    "country": "Morocco",
+    "code": "TNG"
+  },
+  {
+    "name": "Fes Saiss",
+    "country": "Morocco",
+    "code": "FEZ"
+  },
+  {
+    "name": "Rabat Sale",
+    "country": "Morocco",
+    "code": "RBA"
+  },
+  {
+    "name": "Oujda Angads",
+    "country": "Morocco",
+    "code": "OUD"
+  },
+  {
+    "name": "Luanda 4 de Fevereiro",
+    "country": "Angola",
+    "code": "LAD"
+  },
+  {
+    "name": "Maputo International",
+    "country": "Mozambique",
+    "code": "MPM"
+  },
+  {
+    "name": "Nampula",
+    "country": "Mozambique",
+    "code": "APL"
+  },
+  {
+    "name": "Pemba",
+    "country": "Mozambique",
+    "code": "POL"
+  },
+  {
+    "name": "Beira",
+    "country": "Mozambique",
+    "code": "BEW"
+  },
+  {
+    "name": "Tete Chingozi",
+    "country": "Mozambique",
+    "code": "TET"
+  },
+  {
+    "name": "Accra Kotoka International",
+    "country": "Ghana",
+    "code": "ACC"
+  },
+  {
+    "name": "Antananarivo Ivato International",
+    "country": "Madagascar",
+    "code": "TNR"
+  },
+  {
+    "name": "Nosy-Be Fascene",
+    "country": "Madagascar",
+    "code": "NOS"
+  },
+  {
+    "name": "Toamasina",
+    "country": "Madagascar",
+    "code": "TMM"
+  },
+  {
+    "name": "Abidjan Felix Houphouet-Boigny",
+    "country": "Ivory Coast",
+    "code": "ABJ"
+  },
+  {
+    "name": "Niamey Diori Hamani International",
+    "country": "Niger",
+    "code": "NIM"
+  },
+  {
+    "name": "Ouagadougou",
+    "country": "Burkina Faso",
+    "code": "OUA"
+  },
+  {
+    "name": "Bamako Senou International",
+    "country": "Mali",
+    "code": "BKO"
+  },
+  {
+    "name": "Lilongwe Kamuzu International",
+    "country": "Malawi",
+    "code": "LLW"
+  },
+  {
+    "name": "Blantyre Chileka International",
+    "country": "Malawi",
+    "code": "BLZ"
+  },
+  {
+    "name": "Lusaka International",
+    "country": "Zambia",
+    "code": "LUN"
+  },
+  {
+    "name": "Livingstone",
+    "country": "Zambia",
+    "code": "LVI"
+  },
+  {
+    "name": "Ndola Simon M. Kapwepwe International",
+    "country": "Zambia",
+    "code": "NLA"
+  },
+  {
+    "name": "Dakar Blaise Diagne International",
+    "country": "Senegal",
+    "code": "DSS"
+  },
+  {
+    "name": "N'Djamena Hassan Djamous International",
+    "country": "Chad",
+    "code": "NDJ"
+  },
+  {
+    "name": "Mogadishu Aden Adde International",
+    "country": "Somalia",
+    "code": "MGQ"
+  },
+  {
+    "name": "Hargeisa Egal International",
+    "country": "Somalia",
+    "code": "HGA"
+  },
+  {
+    "name": "Harare R.G. Mugabe International",
+    "country": "Zimbabwe",
+    "code": "HRE"
+  },
+  {
+    "name": "Victoria Falls International",
+    "country": "Zimbabwe",
+    "code": "VFA"
+  },
+  {
+    "name": "Bulawayo Joshua M. Nkomo International",
+    "country": "Zimbabwe",
+    "code": "BUQ"
+  },
+  {
+    "name": "Conakry International",
+    "country": "Guinea",
+    "code": "CKY"
+  },
+  {
+    "name": "Kigali International",
+    "country": "Rwanda",
+    "code": "KGL"
+  },
+  {
+    "name": "Cotonou Cadjehoun",
+    "country": "Benin",
+    "code": "COO"
+  },
+  {
+    "name": "Bujumbura International",
+    "country": "Burundi",
+    "code": "BJM"
+  },
+  {
+    "name": "Tunis Carthage",
+    "country": "Tunisia",
+    "code": "TUN"
+  },
+  {
+    "name": "Enfidha Hammamet",
+    "country": "Tunisia",
+    "code": "NBE"
+  },
+  {
+    "name": "Djerba Zarzis",
+    "country": "Tunisia",
+    "code": "DJE"
+  },
+  {
+    "name": "Monastir Habib Bourguiba International",
+    "country": "Tunisia",
+    "code": "MIR"
+  },
+  {
+    "name": "Sfax Thyna",
+    "country": "Tunisia",
+    "code": "SFA"
+  },
+  {
+    "name": "Juba",
+    "country": "South Sudan",
+    "code": "JUB"
+  },
+  {
+    "name": "Lome G. Eyadema International",
+    "country": "Togo",
+    "code": "LFW"
+  },
+  {
+    "name": "Freetown Lungi International",
+    "country": "Sierra Leone",
+    "code": "FNA"
+  },
+  {
+    "name": "Tripoli Mitiga",
+    "country": "Libya",
+    "code": "MJI"
+  },
+  {
+    "name": "Benghazi Benina International",
+    "country": "Libya",
+    "code": "BEN"
+  },
+  {
+    "name": "Sebha",
+    "country": "Libya",
+    "code": "SEB"
+  },
+  {
+    "name": "Monrovia Roberts International",
+    "country": "Liberia",
+    "code": "ROB"
+  },
+  {
+    "name": "Bangui Mpoko International",
+    "country": "Central African Republic",
+    "code": "BGF"
+  },
+  {
+    "name": "Nouakchott",
+    "country": "Mauritania",
+    "code": "NKC"
+  },
+  {
+    "name": "Nouadhibou",
+    "country": "Mauritania",
+    "code": "NDB"
+  },
+  {
+    "name": "Asmara International",
+    "country": "Eritrea",
+    "code": "ASM"
+  },
+  {
+    "name": "Windhoek Hosea Kutako International",
+    "country": "Namibia",
+    "code": "WDH"
+  },
+  {
+    "name": "Walvis Bay",
+    "country": "Namibia",
+    "code": "WVB"
+  },
+  {
+    "name": "Banjul International",
+    "country": "Gambia",
+    "code": "BJL"
+  },
+  {
+    "name": "Gaborone S. Khama Int'l",
+    "country": "Botswana",
+    "code": "GBE"
+  },
+  {
+    "name": "Maun",
+    "country": "Botswana",
+    "code": "MUB"
+  },
+  {
+    "name": "Libreville Leon M'ba International",
+    "country": "Gabon",
+    "code": "LBV"
+  },
+  {
+    "name": "Maseru Moshoeshoe I International",
+    "country": "Lesotho",
+    "code": "MSU"
+  },
+  {
+    "name": "Bissau Osvaldo Vieira International",
+    "country": "Guinea-Bissau",
+    "code": "OXB"
+  },
+  {
+    "name": "Malabo International",
+    "country": "Equatorial Guinea",
+    "code": "SSG"
+  },
+  {
+    "name": "Mauritius Sir S. Ramgoolam International",
+    "country": "Mauritius",
+    "code": "MRU"
+  },
+  {
+    "name": "Manzini Matsapha International",
+    "country": "Eswatini",
+    "code": "MTS"
+  },
+  {
+    "name": "Djibouti Ambouli International",
+    "country": "Djibouti",
+    "code": "JIB"
+  },
+  {
+    "name": "Moroni Prince Said Ibrahim",
+    "country": "Comoros",
+    "code": "HAH"
+  },
+  {
+    "name": "Sal Island Amilcar Cabral International",
+    "country": "Cape Verde",
+    "code": "SID"
+  },
+  {
+    "name": "Boa Vista Island Rabil",
+    "country": "Cape Verde",
+    "code": "BVC"
+  },
+  {
+    "name": "Praia International",
+    "country": "Cape Verde",
+    "code": "RAI"
+  },
+  {
+    "name": "Sao Tome International",
+    "country": "Sao Tome and Principe",
+    "code": "TMS"
+  },
+  {
+    "name": "Mahe Island Seychelles International",
+    "country": "Seychelles",
+    "code": "SEZ"
+  },
+  {
+    "name": "St-Denis Roland Garros",
+    "country": "Reunion",
+    "code": "RUN"
+  },
+  {
+    "name": "Laayoune Hassan I",
+    "country": "Morocco",
+    "code": "EUN"
+  },
+  {
+    "name": "Dzaoudzi Pamandzi International",
+    "country": "Mayotte",
+    "code": "DZA"
+  },
+  {
+    "name": "Jamestown Saint Helena",
+    "country": "Saint Helena (Ascension Island)",
+    "code": "HLE"
+  },
+  {
+    "name": "Sydney Kingsford Smith",
+    "country": "Australia",
+    "code": "SYD"
+  },
+  {
+    "name": "Brisbane International",
+    "country": "Australia",
+    "code": "BNE"
+  },
+  {
+    "name": "Melbourne Airport",
+    "country": "Australia",
+    "code": "MEL"
+  },
+  {
+    "name": "Melbourne Essendon",
+    "country": "Australia",
+    "code": "MEB"
+  },
+  {
+    "name": "Perth International",
+    "country": "Australia",
+    "code": "PER"
+  },
+  {
+    "name": "Adelaide International",
+    "country": "Australia",
+    "code": "ADL"
+  },
+  {
+    "name": "Canberra",
+    "country": "Australia",
+    "code": "CBR"
+  },
+  {
+    "name": "Cairns International",
+    "country": "Australia",
+    "code": "CNS"
+  },
+  {
+    "name": "Darwin International",
+    "country": "Australia",
+    "code": "DRW"
+  },
+  {
+    "name": "Gold Coast Coolangatta",
+    "country": "Australia",
+    "code": "OOL"
+  },
+  {
+    "name": "Townsville International",
+    "country": "Australia",
+    "code": "TSV"
+  },
+  {
+    "name": "Mount Isa",
+    "country": "Australia",
+    "code": "ISA"
+  },
+  {
+    "name": "Port Moresby Jacksons International",
+    "country": "Papua New Guinea",
+    "code": "POM"
+  },
+  {
+    "name": "Buka",
+    "country": "Papua New Guinea",
+    "code": "BUA"
+  },
+  {
+    "name": "Daru",
+    "country": "Papua New Guinea",
+    "code": "DAU"
+  },
+  {
+    "name": "Goroka",
+    "country": "Papua New Guinea",
+    "code": "GKA"
+  },
+  {
+    "name": "Alotau Gurney",
+    "country": "Papua New Guinea",
+    "code": "GUR"
+  },
+  {
+    "name": "Lae Nadzab",
+    "country": "Papua New Guinea",
+    "code": "LAE"
+  },
+  {
+    "name": "Rabaul Tokua",
+    "country": "Papua New Guinea",
+    "code": "RAB"
+  },
+  {
+    "name": "Auckland International",
+    "country": "New Zealand",
+    "code": "AKL"
+  },
+  {
+    "name": "Christchurch International",
+    "country": "New Zealand",
+    "code": "CHC"
+  },
+  {
+    "name": "Wellington International",
+    "country": "New Zealand",
+    "code": "WLG"
+  },
+  {
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "code": "ZQN"
+  },
+  {
+    "name": "Nadi International",
+    "country": "Fiji",
+    "code": "NAN"
+  },
+  {
+    "name": "Suva Nausori International",
+    "country": "Fiji",
+    "code": "SUV"
+  },
+  {
+    "name": "Honiara International",
+    "country": "Solomon Islands",
+    "code": "HIR"
+  },
+  {
+    "name": "Munda",
+    "country": "Solomon Islands",
+    "code": "MUA"
+  },
+  {
+    "name": "Chuuk International",
+    "country": "Micronesia",
+    "code": "TKK"
+  },
+  {
+    "name": "Pohnpei International",
+    "country": "Micronesia",
+    "code": "PNI"
+  },
+  {
+    "name": "Port Vila",
+    "country": "Vanuatu",
+    "code": "VLI"
+  },
+  {
+    "name": "Luganville Santo",
+    "country": "Vanuatu",
+    "code": "SON"
+  },
+  {
+    "name": "Tanna Island Tanna",
+    "country": "Vanuatu",
+    "code": "TAH"
+  },
+  {
+    "name": "Tahiti Faaa",
+    "country": "French Polynesia",
+    "code": "PPT"
+  },
+  {
+    "name": "Apia Faleolo International",
+    "country": "Samoa",
+    "code": "APW"
+  },
+  {
+    "name": "Guam A.B. Won Pat International",
+    "country": "Guam",
+    "code": "GUM"
+  },
+  {
+    "name": "Kiritimati Cassidy International",
+    "country": "Kiribati",
+    "code": "CXI"
+  },
+  {
+    "name": "Tarawa Bonriki International",
+    "country": "Kiribati",
+    "code": "TRW"
+  },
+  {
+    "name": "Nuku'alofa Fua'amotu International",
+    "country": "Tonga",
+    "code": "TBU"
+  },
+  {
+    "name": "Majuro Amata Kabua International",
+    "country": "Marshall Islands",
+    "code": "MAJ"
+  },
+  {
+    "name": "Kwajalein Island Bucholz AAF",
+    "country": "Marshall Islands",
+    "code": "KWA"
+  },
+  {
+    "name": "Saipan Francisco C. Ada International",
+    "country": "Northern Mariana Islands",
+    "code": "SPN"
+  },
+  {
+    "name": "Pago Pago International",
+    "country": "American Samoa",
+    "code": "PPG"
+  },
+  {
+    "name": "Koror Palau International",
+    "country": "Palau",
+    "code": "ROR"
+  },
+  {
+    "name": "Rarotonga Island",
+    "country": "Cook Islands",
+    "code": "RAR"
+  },
+  {
+    "name": "Funafuti International",
+    "country": "Tuvalu",
+    "code": "FUN"
+  },
+  {
+    "name": "Nauru Island International",
+    "country": "Nauru",
+    "code": "INU"
+  },
+  {
+    "name": "Niue Island International",
+    "country": "Niue",
+    "code": "IUE"
+  }
+]

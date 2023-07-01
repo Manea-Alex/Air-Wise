@@ -1,0 +1,769 @@
+.results-container {
+  max-width: 900px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flight-result {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 20px;
+}
+
+.flight-result-content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 25px;
+  user-select: none;
+}
+
+.flight-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flight-date-duration {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  line-height: 1px;
+  user-select: none;
+}
+
+.flight-time-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  /* margin-left: 10px; */
+  line-height: 1px;
+  /* asta era cei mai sus cu margin */
+  position: absolute;
+  margin-left: 90px;
+  user-select: none;
+}
+
+.flight-info:nth-child(2) {
+  margin-top: 18px;
+}
+
+.date {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.time {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgb(37, 42, 49);
+  padding-bottom: 3px;
+}
+.duration {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.departure-arrival {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14.6px;
+  font-weight: 500;
+  color: rgb(79, 94, 113);
+}
+
+.arrival-departure {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14.6px;
+  font-weight: 500;
+  color: rgb(79, 94, 113);
+}
+
+.nights-in-destination {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(79, 94, 113);
+  margin-top: 10px;
+  user-select: none;
+}
+
+.price-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-top: 15px;
+  /* margin-left: 315px;
+  asta era mai sus doar margin left si eu am adaugat asta */
+  margin-left: 680px;
+  position: absolute;
+}
+
+.price {
+  margin-bottom: 12px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  user-select: none;
+}
+
+.buy-button {
+  padding: 0.4rem 1rem;
+  border: 1px;
+  border-radius: 4px;
+  background-color: #00a991;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 550 !important;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  user-select: none;
+  width: 125px;
+}
+
+.buy-button:hover {
+  background-color: #009882;
+}
+.flight-date-duration p,
+.flight-time-details p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.flight-result {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 20px;
+}
+
+.show-details-container {
+  margin-top: 20px;
+}
+
+.show-details-container span {
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(79, 94, 113);
+  user-select: none;
+}
+
+.show-details-container i {
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+
+/* .layovers-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: none;
+  padding: 20px;
+  z-index: 1;
+} */
+.layovers-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: start; /* Align items vertically at the start */
+
+  background-color: #ffffff;
+  border: none;
+  /* padding: 20px; */
+  /* z-index: 1; */
+  width: 100%;
+  margin-top: 13px;
+}
+
+.material-symbols-outlined.custom-show {
+  font-size: 17px;
+  transform: translateY(-1%);
+  margin-left: 1px;
+}
+.show-details-container {
+  padding: 0 10px;
+  font-size: 12px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 500;
+  height: 32px;
+  line-height: 2.5;
+  border-radius: 4px;
+}
+
+.show-details-container:hover {
+  background-color: rgb(229 234 239);
+  cursor: pointer;
+}
+
+.flight-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  width: 245px;
+  height: 160px;
+
+  box-shadow: rgba(37, 42, 49, 0.16) 0px 0px 2px 0px,
+    rgba(37, 42, 49, 0.12) 0px 2px 4px 0px;
+  border-radius: 6px;
+}
+
+.flight-container:hover {
+  box-shadow: rgba(37, 42, 49, 0.16) 0px 0px 2px 0px,
+    rgba(37, 42, 49, 0.12) 0px 2px 4px 0px;
+  border: 1px;
+}
+
+.waiting-time {
+  margin-top: 1rem;
+}
+
+.material-symbols-outlined.pen {
+  position: absolute;
+  height: 100%;
+  transform: rotate(-45deg);
+  left: calc(25.3% - 1px);
+  font-size: 240px;
+  font-weight: 100;
+}
+
+.ticket-content {
+  min-height: 198px;
+  display: flex;
+  flex-direction: row;
+  min-width: 800px;
+}
+
+.info-arrival > div,
+.info-departure > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-and-duration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flight-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  position: relative;
+  user-select: none;
+}
+
+.info-departure,
+.info-arrival,
+.logo-and-duration {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.info-departure > .info,
+.info-arrival > .info,
+.logo-and-duration > .duration {
+  text-align: right;
+  justify-self: end;
+  margin-right: 21px;
+  /* padding-top: 1.5em; */
+}
+
+.info-departure > .departure,
+.info-arrival > .arrival,
+.logo-and-duration > .logo {
+  text-align: left;
+  justify-self: start;
+  margin-left: 21px;
+  /* padding-top: 1.5em; */
+}
+
+.logo > img {
+  border-radius: 50%; /* This makes the image round */
+  width: 23px; /* Adjust as needed */
+  height: 23px; /* Adjust as needed */
+}
+
+.logo p {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.duration {
+  text-align: left;
+}
+
+.departure-container {
+  margin-left: 5rem;
+}
+
+.return-container {
+  margin-right: 5rem;
+}
+
+.waiting-time {
+  margin-top: 1rem;
+  user-select: none;
+}
+
+.material-symbols-outlined.pen {
+  position: absolute;
+  height: 100%;
+  transform: rotate(-45deg);
+  left: calc(25.3% - 1px);
+  font-size: 240px;
+  font-weight: 100;
+}
+
+.ticket-content {
+  min-height: 187px;
+  display: flex;
+  flex-direction: row;
+  min-width: 800px;
+}
+
+.vertical-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 115px;
+  width: 2.5px;
+  background-color: rgb(202 212 222);
+  position: absolute;
+  transform: translateY(-50%);
+  margin-top: 81px;
+  user-select: none;
+}
+
+.vertical-line:before,
+.vertical-line:after {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: rgb(79, 94, 113);
+}
+
+.vertical-line:before {
+  top: -5px;
+}
+
+.vertical-line:after {
+  bottom: -5px;
+}
+
+.material-icons.flight {
+  transform: rotate(180deg);
+  font-size: 22px;
+}
+.flight-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+  height: 50%;
+  margin-top: 40px;
+}
+
+.info-departure,
+.info-arrival {
+  width: 100%;
+}
+
+.info p {
+  line-height: 1.2;
+  margin: 0;
+  /* padding-top: 0.5em; */
+}
+
+.departure p {
+  line-height: 1.2;
+  margin: 0;
+  /* padding-top: 0.5em; */
+}
+
+.arrival p {
+  line-height: 1.2;
+  margin: 0;
+  /* padding-top: 0.5em; */
+}
+
+.arrival :nth-child(1),
+.departure :nth-child(1),
+.info :nth-child(1) {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+.arrival :nth-child(2),
+.departure :nth-child(2),
+.info :nth-child(2) {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+.layover {
+  display: flex;
+  align-items: center;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+
+  margin-left: 80px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.layover p {
+  font-size: 13px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+
+.material-symbols-outlined.schedule {
+  padding-right: 8px;
+}
+
+.city-names {
+  font-size: 13px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: -10px;
+  user-select: none;
+}
+
+.details-duration {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  padding-bottom: 3px;
+  user-select: none;
+}
+
+.flight-result-content-one-way {
+  margin-top: 20px;
+}
+
+.ticket-content-one-way {
+  min-height: 140px;
+  user-select: none;
+}
+
+.price-container-one-way {
+  margin-top: -14px;
+}
+
+.layovers-container-one-way {
+  justify-content: center;
+  margin-left: -20px;
+}
+
+.load-more {
+  border-radius: 4px;
+  border: 1px;
+  /* border-color: rgb(232, 237, 241); */
+  color: rgb(37, 42, 49) !important;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 550 !important;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  user-select: none;
+  margin-bottom: 15px;
+  height: 44px;
+  background: rgb(232 237 241);
+  max-width: 900px;
+  justify-content: center;
+  /* margin-left: 605px; */
+  width: 100%;
+}
+
+.load-more:hover {
+  background-color: rgb(220 227 233);
+  /* margin-left: 605px; */
+}
+
+.hand-bag.hand-bag-return {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 143px;
+  position: absolute;
+  background-color: rgb(232, 237, 241);
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 4px 8px;
+  user-select: none;
+  /* margin-left: 20px; */
+}
+/* 
+.hand-bag.hand-bag-return > span :nth-child(2) {
+  padding-bottom: 100px;
+} */
+
+.bag-limit {
+  margin-left: 12px;
+}
+
+.travel-class.travel-class-return {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 143px;
+  position: absolute;
+  background-color: rgb(232, 237, 241);
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 4px 12px;
+  margin-left: 85px;
+  user-select: none;
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  padding: 5px 2px;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.hand-bag.hand-bag-return:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.travel-class.travel-class-return:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+  width: 80px;
+  left: 75%;
+}
+
+.hand-bag.hand-bag-one-way {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 67px;
+  position: absolute;
+  background-color: rgb(232, 237, 241);
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 4px 8px;
+  user-select: none;
+  /* margin-left: 20px; */
+}
+
+.travel-class.travel-class-one-way {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 67px;
+  position: absolute;
+  background-color: rgb(232, 237, 241);
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 4px 12px;
+  margin-left: 85px;
+  user-select: none;
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  padding: 5px 2px;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.hand-bag.hand-bag-one-way:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.travel-class.travel-class-one-way:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+  width: 80px;
+  left: 75%;
+}
+
+.material-symbols-outlined.luggage {
+  font-size: 14px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.sorting-options {
+  display: flex;
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  box-shadow: rgba(37, 42, 49, 0.16) 0px 0px 2px 0px,
+    rgba(37, 42, 49, 0.12) 0px 1px 4px 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sorting-option {
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-top: 5px;
+  cursor: pointer;
+}
+
+.sorting-option:hover {
+  border-bottom: solid 3px rgb(1, 114, 203);
+}
+
+.option-label {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
+}
+
+.display-data {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 6px;
+  user-select: none;
+}
+
+.sorting-option.selected > .option-label {
+  color: rgb(0, 90, 163);
+}
+
+.sorting-option.selected > .display-data {
+  color: rgb(1, 114, 203);
+}
+
+.sorting-option.selected {
+  border-bottom: solid 3px rgb(1, 114, 203);
+}
+
+.seats {
+  margin-top: 0px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: underline;
+  user-select: none;
+}
+
+.tooltip-seat {
+  visibility: hidden;
+  width: 281px;
+  background-color: #555;
+  color: #fff;
+  padding: 5px 2px;
+  position: absolute;
+  z-index: 1;
+  bottom: 70%;
+  left: 50%;
+  margin-left: -146px;
+  opacity: 0;
+  border-radius: 3px;
+  transition: opacity 0.3s;
+
+  padding: 10px 6px;
+}
+
+.seats:hover .tooltip-seat {
+  visibility: visible;
+  opacity: 1;
+}
+
+.no-result {
+  user-select: none;
+  margin-top: 40px;
+}
+
+.no-result > div {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.no-result > p {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}

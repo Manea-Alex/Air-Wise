@@ -1,0 +1,307 @@
+body {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+.input-container {
+  position: relative;
+  display: inline;
+  flex: 1;
+  margin-right: 2.3rem;
+  user-select: none;
+}
+
+.input-container input {
+  width: 105%;
+  min-width: 0px;
+  margin-right: 1.5rem; /* Add this line */
+}
+
+.suggestions-list {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 0;
+  width: 111%;
+  background-color: #fff;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  max-height: 200px;
+  overflow-y: auto;
+  font-size: 13px;
+  z-index: 1;
+}
+
+.suggestions-list li {
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+  padding-left: 4px;
+  /* padding-right: 4px; */
+  line-height: 20px;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 600;
+  font-size: 13.5px;
+}
+
+.suggestions-list .material-icons {
+  margin-right: 8px; /* Adjust the spacing between the icon and the text */
+  font-size: 19px;
+}
+
+.suggestion-text {
+  white-space: normal;
+}
+
+.suggestions-list li:hover {
+  background-color: #eee; /* Change this color to your preference */
+  cursor: pointer;
+}
+
+.input-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.selected-text {
+  position: absolute;
+  left: 5px; /* Adjust this value if needed */
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #00a991;
+  padding: 4px 12px;
+  border-radius: 4px;
+  color: #f0f0f0;
+  font-weight: 600;
+}
+.selected-text:hover {
+  background-color: #009882;
+}
+
+@media only screen and (min-width: 881px) and (max-width: 1020px) {
+  .selected-text {
+    position: absolute;
+    left: 5px; /* Adjust this value if needed */
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #00a991;
+    padding: 3px;
+    width: 90%;
+    border-radius: 4px;
+    color: #f0f0f0;
+    font-weight: 600;
+    font-size: 12.5px;
+  }
+}
+
+.input-container:nth-child(2) .selected-text {
+  background-color: rgb(249, 151, 30, 1);
+}
+.input-container:nth-child(2) .selected-text:hover {
+  background-color: rgba(219, 123, 6, 1);
+}
+.input-container:nth-child(2) .clear-button {
+  background-color: rgba(252, 213, 165, 1);
+  color: rgb(249 151 30);
+}
+.input-container:nth-child(2) .clear-button:hover {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.clear-button {
+  transform: translateY(-10%);
+  background-color: rgb(153 220 211);
+  border: 1px;
+  border-radius: 50%;
+  color: rgb(0 169 145);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  height: 19px;
+  line-height: 19px;
+  margin-left: 8px;
+  outline: none;
+
+  text-align: center;
+  vertical-align: middle;
+  width: 20px;
+}
+.clear-button:hover {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.clear-button::before {
+  color: #00a991;
+}
+.input-placeholder {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+input::placeholder {
+  color: rgb(37 42 49); /* Change the color */
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+input.input-typing {
+  font-weight: 600; /* Change the font-weight */
+  font-size: 14px; /* Change the font-size */
+}
+.react-datepicker__input-container input {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  width: 105%;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 25px;
+}
+
+.date-input-container {
+  position: relative;
+  display: inline-block;
+}
+
+.clear-date {
+  position: absolute;
+  top: 50%;
+  right: -15px;
+  transform: translateY(-50%);
+  background-color: rgb(79 94 113);
+  color: #ffff;
+  border: 1px;
+  border-radius: 50%;
+  font-size: 17px;
+  cursor: pointer;
+  height: 21px;
+}
+
+.clear-date:hover {
+  background-color: rgb(56, 60, 66);
+}
+
+.react-datepicker {
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-weight: 400; /* Change to your desired font-weight */
+  display: flex !important;
+  /* min-height: 400px !important; */
+}
+.react-datepicker__day {
+  padding: 0.5rem !important; /* Adjust the value to achieve desired spacing */
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  color: rgb(37 42 49) !important;
+}
+/* .react-datepicker__day-name {
+  padding: 0.5 rem !important;
+} */
+
+.react-datepicker__day-name,
+.react-datepicker__day {
+  /* width: 2rem !important;
+  margin: 0.2rem !important; */
+  width: 2rem; /* Adjust the value to achieve desired width */
+  margin: 0.1rem;
+  padding: 0.5rem; /* Adjust the value to achieve desired spacing */
+  /* box-sizing: border-box; */
+}
+
+.react-datepicker__day-name {
+  color: rgb(81 95 114) !important;
+  font-weight: 700 !important;
+  margin-top: 20px !important;
+}
+.react-datepicker__header {
+  margin-top: 10px !important;
+  font-family: "Circular Pro", -apple-system, ".SFNSText-Regular",
+    "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  background-color: #ffff !important;
+  border-bottom: none !important;
+}
+
+.react-datepicker__current-month {
+  display: inline-block;
+  text-align: center;
+  padding: 0;
+  background-color: rgb(239 242 245) !important;
+  border: 1px !important;
+  border-radius: 6px;
+  padding: 10px;
+  font-weight: 600 !important;
+}
+
+.react-datepicker__navigation--next {
+  right: 2px;
+  margin-top: 22px;
+  margin-right: 13px;
+  background-color: rgb(239 242 245) !important;
+  border: 1px !important;
+  border-radius: 6px;
+  padding-right: 0px !important;
+}
+
+.react-datepicker__navigation--previous {
+  margin-top: 22px;
+  margin-left: 13px;
+  background-color: rgb(239 242 245) !important;
+  border: 1px !important;
+  border-radius: 6px;
+  padding-left: 0px !important;
+}
+
+.react-datepicker__navigation--previous:hover,
+.react-datepicker__navigation--next:hover {
+  background-color: rgb(229 234 239) !important;
+}
+
+.react-datepicker__day--selected:nth-child(1) {
+  /* background-color: rgb(1, 114, 203) !important; */
+  color: #ffff !important;
+}
+
+.react-datepicker__day--selected:nth-child(2) {
+  background-color: rgb(255, 255, 255) !important;
+  color: #ffff !important;
+}
+
+.react-datepicker__day--outside-month {
+  opacity: 0;
+}
+
+.react-datepicker-ignore-onclickoutside {
+  width: 200px; /* Adjust this to suit your needs */
+}
+
+.react-datepicker__day--keyboard-selected,
+.react-datepicker__day--selected,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--in-range,
+.react-datepicker__month-text--selected,
+.react-datepicker__month-text--in-selecting-range,
+.react-datepicker__month-text--in-range,
+.react-datepicker__quarter-text--selected,
+.react-datepicker__quarter-text--in-selecting-range,
+.react-datepicker__quarter-text--in-range,
+.react-datepicker__year-text--selected,
+.react-datepicker__year-text--in-selecting-range,
+.react-datepicker__year-text--in-range {
+  background-color: rgb(0, 169, 145) !important;
+  color: #fff !important;
+}
