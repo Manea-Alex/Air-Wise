@@ -1,5 +1,4 @@
 import React from "react";
-import { findAirlineDetails } from "../FlightSearchResults";
 import {
   formatDuration,
   formatTimeFromISOString,

@@ -1,5 +1,5 @@
 // App.js
-import React, { useState, useCallback, useEffect } from "react";
+import React, { useState, useCallback } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import FlightSearch from "./components/FlightSearch/FlightSearch";
@@ -144,8 +144,6 @@ function App() {
   }, [
     goingAirportCode,
     returnAirportCode,
-    departureDate,
-    returnDate,
     times,
     tripType,
     stopoversCustomValue,

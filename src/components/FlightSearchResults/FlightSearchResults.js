@@ -17,16 +17,13 @@ const FlightSearchResults = ({
   const [visible, setVisible] = useState(5);
   const [sortOrder, setSortOrder] = React.useState("Cheapest");
 
-  const { sortOptions, selectedOption, setSelectedOption } = SortOptions({
+  const { sortOptions, selectedOption } = SortOptions({
     setSortOrder,
     flights,
     currency,
     isSearchButtonClicked,
   });
 
-  {
-    /*Container for flight search results */
-  }
   return (
     <div
       className="wrapper"

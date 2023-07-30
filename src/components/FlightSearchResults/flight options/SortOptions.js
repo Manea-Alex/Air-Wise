@@ -1,10 +1,6 @@
 import React from "react";
 import SeparateLayovers from "../flight processing/SeparateLayovers";
-import {
-  calculateTotalDuration,
-  formatDuration,
-  extractTime,
-} from "../functions/utils";
+import { calculateTotalDuration, formatDuration } from "../functions/utils";
 
 const SortOptions = ({
   setSortOrder,
