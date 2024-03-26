@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Air-Wise/static/css/main.d2b896ee.css",
+    "main.css": "/Air-Wise/static/css/main.d63916a8.css",
     "main.js": "/Air-Wise/static/js/main.d46a8e6d.js",
     "index.html": "/Air-Wise/index.html",
-    "main.d2b896ee.css.map": "/Air-Wise/static/css/main.d2b896ee.css.map",
+    "main.d63916a8.css.map": "/Air-Wise/static/css/main.d63916a8.css.map",
     "main.d46a8e6d.js.map": "/Air-Wise/static/js/main.d46a8e6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2b896ee.css",
+    "static/css/main.d63916a8.css",
     "static/js/main.d46a8e6d.js"
   ]
 }
